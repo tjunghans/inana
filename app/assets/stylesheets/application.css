@@ -10,5 +10,6 @@
  *
  *= require_self
  *= require "reset"
+ *= require "supersized.core"
  *= require_tree .
  */
