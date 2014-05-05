@@ -1,0 +1,46 @@
+// Place all the styles related to the welcome controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+@mixin welcometext($fontSize: 2em) {
+  background-color: #000;
+  color: #fff;
+  display: inline-block;
+  font-family: 'Open Sans', 'Helvetica', 'Arial', sans-serif;
+  font-size: $fontSize;
+  margin: 0.25em 0;
+  padding: 0.25em;
+  position: relative;
+  z-index: 1;
+}
+
+.background {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  img {
+    height: auto;
+    width: 100%;
+
+  }
+}
+
+.title {
+  @include welcometext(5em);
+}
+
+.subtitle {
+  @include welcometext(2.5em);
+}
+
+.contact{
+  z-index: 1;
+  position: relative;
+  top: 0;
+}
+
+.contact--link {
+  @include welcometext();
+
+}
+
