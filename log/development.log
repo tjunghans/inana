@@ -6583,3 +6583,51 @@ Served asset /IMG_3052@2x.jpg - 200 OK (0ms)
 
 Started GET "/assets/progress.gif" for 127.0.0.1 at 2014-05-05 19:56:12 +0200
 Served asset /progress.gif - 200 OK (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-05 20:10:02 +0200
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 3.9ms (Views: 3.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-05 20:10:02 +0200
+Processing by WelcomeController#index as */*
+  Rendered welcome/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 8.6ms (Views: 8.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-05 20:10:02 +0200
+Served asset /application.css - 200 OK (0ms)
+
+
+Started GET "/assets/reset.css?body=1" for 127.0.0.1 at 2014-05-05 20:10:02 +0200
+Served asset /reset.css - 200 OK (0ms)
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-05-05 20:10:02 +0200
+Served asset /welcome.css - 200 OK (0ms)
+
+
+Started GET "/assets/supersized.core.css?body=1" for 127.0.0.1 at 2014-05-05 20:10:02 +0200
+Served asset /supersized.core.css - 200 OK (0ms)
+
+
+Started GET "/assets/supersized.core.3.2.1.min.js?body=1" for 127.0.0.1 at 2014-05-05 20:10:02 +0200
+Served asset /supersized.core.3.2.1.min.js - 200 OK (0ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-05-05 20:10:02 +0200
+Served asset /welcome.js - 200 OK (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-05 20:10:02 +0200
+Served asset /application.js - 200 OK (0ms)
+
+
+Started GET "/assets/IMG_3052@2x.jpg" for 127.0.0.1 at 2014-05-05 20:10:03 +0200
+Served asset /IMG_3052@2x.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/progress.gif" for 127.0.0.1 at 2014-05-05 20:10:03 +0200
+Served asset /progress.gif - 200 OK (0ms)
