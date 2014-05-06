@@ -8399,3 +8399,2480 @@ Served asset /application.js - 304 Not Modified (0ms)
 
 Started GET "/assets/IMG_3052@2x.jpg" for 127.0.0.1 at 2014-05-06 20:38:51 +0200
 Served asset /IMG_3052@2x.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-06 20:40:38 +0200
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 4.2ms (Views: 4.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-06 20:40:38 +0200
+Processing by WelcomeController#index as */*
+  Rendered welcome/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 6.8ms (Views: 6.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-05-06 20:40:38 +0200
+Served asset /welcome.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-06 20:40:38 +0200
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-05-06 20:40:38 +0200
+Served asset /welcome.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/reset.css?body=1" for 127.0.0.1 at 2014-05-06 20:40:38 +0200
+Served asset /reset.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/supersized.core.css?body=1" for 127.0.0.1 at 2014-05-06 20:40:38 +0200
+Served asset /supersized.core.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/supersized.core.3.2.1.min.js?body=1" for 127.0.0.1 at 2014-05-06 20:40:38 +0200
+Served asset /supersized.core.3.2.1.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-06 20:40:38 +0200
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/IMG_3052@2x.jpg" for 127.0.0.1 at 2014-05-06 20:40:39 +0200
+Served asset /IMG_3052@2x.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-06 20:55:09 +0200
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.2ms)
+Compiled welcome.js  (0ms)  (pid 18135)
+Compiled application.js  (2ms)  (pid 18135)
+Completed 200 OK in 62.4ms (Views: 62.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-06 20:55:09 +0200
+Processing by WelcomeController#index as */*
+  Rendered welcome/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 7.7ms (Views: 7.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-06 20:55:09 +0200
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/reset.css?body=1" for 127.0.0.1 at 2014-05-06 20:55:09 +0200
+Served asset /reset.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/supersized.core.css?body=1" for 127.0.0.1 at 2014-05-06 20:55:09 +0200
+Served asset /supersized.core.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-05-06 20:55:09 +0200
+Served asset /welcome.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/supersized.core.3.2.1.min.js?body=1" for 127.0.0.1 at 2014-05-06 20:55:09 +0200
+Served asset /supersized.core.3.2.1.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-05-06 20:55:09 +0200
+Served asset /welcome.js - 200 OK (4ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-06 20:55:09 +0200
+Served asset /application.js - 304 Not Modified (32ms)
+
+
+Started GET "/assets/IMG_3052@2x.jpg" for 127.0.0.1 at 2014-05-06 20:55:09 +0200
+Served asset /IMG_3052@2x.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/progress.gif" for 127.0.0.1 at 2014-05-06 20:55:09 +0200
+Served asset /progress.gif - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-06 20:55:20 +0200
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.2ms)
+Compiled welcome.js  (0ms)  (pid 18135)
+Compiled application.js  (1ms)  (pid 18135)
+Completed 200 OK in 20.4ms (Views: 20.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-06 20:55:20 +0200
+Processing by WelcomeController#index as */*
+  Rendered welcome/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 9.0ms (Views: 8.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-06 20:55:20 +0200
+Served asset /application.css - 304 Not Modified (6ms)
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-05-06 20:55:20 +0200
+Served asset /welcome.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-05-06 20:55:20 +0200
+Served asset /welcome.js - 200 OK (4ms)
+
+
+Started GET "/assets/reset.css?body=1" for 127.0.0.1 at 2014-05-06 20:55:20 +0200
+Served asset /reset.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/supersized.core.3.2.1.min.js?body=1" for 127.0.0.1 at 2014-05-06 20:55:20 +0200
+Served asset /supersized.core.3.2.1.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/supersized.core.css?body=1" for 127.0.0.1 at 2014-05-06 20:55:20 +0200
+Served asset /supersized.core.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-06 20:55:20 +0200
+Served asset /application.js - 304 Not Modified (4ms)
+
+
+Started GET "/assets/IMG_3052@2x.jpg" for 127.0.0.1 at 2014-05-06 20:55:20 +0200
+Served asset /IMG_3052@2x.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/progress.gif" for 127.0.0.1 at 2014-05-06 20:55:20 +0200
+Served asset /progress.gif - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-06 20:56:16 +0200
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.3ms)
+Compiled welcome.js  (0ms)  (pid 18135)
+Compiled application.js  (1ms)  (pid 18135)
+Completed 200 OK in 29.8ms (Views: 29.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-06 20:56:16 +0200
+Processing by WelcomeController#index as */*
+  Rendered welcome/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 5.9ms (Views: 5.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-06 20:56:16 +0200
+Served asset /application.css - 304 Not Modified (4ms)
+
+
+Started GET "/assets/reset.css?body=1" for 127.0.0.1 at 2014-05-06 20:56:16 +0200
+Served asset /reset.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/supersized.core.css?body=1" for 127.0.0.1 at 2014-05-06 20:56:16 +0200
+Served asset /supersized.core.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/supersized.core.3.2.1.min.js?body=1" for 127.0.0.1 at 2014-05-06 20:56:16 +0200
+Served asset /supersized.core.3.2.1.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-05-06 20:56:16 +0200
+Served asset /welcome.js - 200 OK (3ms)
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-05-06 20:56:16 +0200
+Served asset /welcome.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-06 20:56:16 +0200
+Served asset /application.js - 304 Not Modified (4ms)
+
+
+Started GET "/assets/IMG_3052@2x.jpg" for 127.0.0.1 at 2014-05-06 20:56:16 +0200
+Served asset /IMG_3052@2x.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/progress.gif" for 127.0.0.1 at 2014-05-06 20:56:16 +0200
+Served asset /progress.gif - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-06 20:56:29 +0200
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 4.4ms (Views: 4.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-06 20:56:29 +0200
+Processing by WelcomeController#index as */*
+  Rendered welcome/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 5.2ms (Views: 5.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-06 20:56:29 +0200
+Served asset /application.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-05-06 20:56:29 +0200
+Served asset /welcome.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/supersized.core.css?body=1" for 127.0.0.1 at 2014-05-06 20:56:29 +0200
+Served asset /supersized.core.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/supersized.core.3.2.1.min.js?body=1" for 127.0.0.1 at 2014-05-06 20:56:29 +0200
+Served asset /supersized.core.3.2.1.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/reset.css?body=1" for 127.0.0.1 at 2014-05-06 20:56:29 +0200
+Served asset /reset.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-05-06 20:56:29 +0200
+Served asset /welcome.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-06 20:56:29 +0200
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/IMG_3052@2x.jpg" for 127.0.0.1 at 2014-05-06 20:56:29 +0200
+Served asset /IMG_3052@2x.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/progress.gif" for 127.0.0.1 at 2014-05-06 20:56:29 +0200
+Served asset /progress.gif - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-06 20:56:37 +0200
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 3.4ms (Views: 3.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-06 20:56:37 +0200
+Processing by WelcomeController#index as */*
+  Rendered welcome/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 7.8ms (Views: 7.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/reset.css?body=1" for 127.0.0.1 at 2014-05-06 20:56:37 +0200
+Served asset /reset.css - 200 OK (0ms)
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-05-06 20:56:37 +0200
+Served asset /welcome.css - 200 OK (0ms)
+
+
+Started GET "/assets/supersized.core.3.2.1.min.js?body=1" for 127.0.0.1 at 2014-05-06 20:56:37 +0200
+Served asset /supersized.core.3.2.1.min.js - 200 OK (0ms)
+
+
+Started GET "/assets/supersized.core.css?body=1" for 127.0.0.1 at 2014-05-06 20:56:37 +0200
+Served asset /supersized.core.css - 200 OK (0ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-05-06 20:56:37 +0200
+Served asset /welcome.js - 200 OK (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-06 20:56:37 +0200
+Served asset /application.css - 200 OK (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-06 20:56:37 +0200
+Served asset /application.js - 200 OK (0ms)
+
+
+Started GET "/assets/IMG_3052@2x.jpg" for 127.0.0.1 at 2014-05-06 20:56:38 +0200
+Served asset /IMG_3052@2x.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/progress.gif" for 127.0.0.1 at 2014-05-06 20:56:38 +0200
+Served asset /progress.gif - 200 OK (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-06 20:57:05 +0200
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.2ms)
+Compiled welcome.js  (0ms)  (pid 18135)
+Compiled application.js  (1ms)  (pid 18135)
+Completed 200 OK in 19.8ms (Views: 19.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-06 20:57:05 +0200
+Processing by WelcomeController#index as */*
+  Rendered welcome/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 6.6ms (Views: 6.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/supersized.core.css?body=1" for 127.0.0.1 at 2014-05-06 20:57:06 +0200
+Served asset /supersized.core.css - 200 OK (3ms)
+
+
+Started GET "/assets/reset.css?body=1" for 127.0.0.1 at 2014-05-06 20:57:06 +0200
+Served asset /reset.css - 200 OK (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-06 20:57:06 +0200
+Served asset /application.css - 200 OK (2ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-05-06 20:57:06 +0200
+Served asset /welcome.js - 200 OK (3ms)
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-05-06 20:57:06 +0200
+Served asset /welcome.css - 200 OK (0ms)
+
+
+Started GET "/assets/supersized.core.3.2.1.min.js?body=1" for 127.0.0.1 at 2014-05-06 20:57:06 +0200
+Served asset /supersized.core.3.2.1.min.js - 200 OK (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-06 20:57:06 +0200
+Served asset /application.js - 200 OK (9ms)
+
+
+Started GET "/assets/v-peace.jpg" for 127.0.0.1 at 2014-05-06 20:57:06 +0200
+Served asset /v-peace.jpg - 200 OK (8ms)
+
+
+Started GET "/assets/progress.gif" for 127.0.0.1 at 2014-05-06 20:57:06 +0200
+Served asset /progress.gif - 200 OK (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-06 20:57:14 +0200
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.2ms)
+Compiled welcome.js  (0ms)  (pid 18135)
+Compiled application.js  (2ms)  (pid 18135)
+Completed 200 OK in 18.9ms (Views: 18.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-06 20:57:14 +0200
+Processing by WelcomeController#index as */*
+  Rendered welcome/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 8.8ms (Views: 8.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-06 20:57:14 +0200
+Served asset /application.css - 200 OK (0ms)
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-05-06 20:57:14 +0200
+Served asset /welcome.css - 200 OK (0ms)
+
+
+Started GET "/assets/supersized.core.css?body=1" for 127.0.0.1 at 2014-05-06 20:57:14 +0200
+Served asset /supersized.core.css - 200 OK (0ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-05-06 20:57:14 +0200
+Served asset /welcome.js - 200 OK (3ms)
+
+
+Started GET "/assets/supersized.core.3.2.1.min.js?body=1" for 127.0.0.1 at 2014-05-06 20:57:14 +0200
+Served asset /supersized.core.3.2.1.min.js - 200 OK (0ms)
+
+
+Started GET "/assets/reset.css?body=1" for 127.0.0.1 at 2014-05-06 20:57:14 +0200
+Served asset /reset.css - 200 OK (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-06 20:57:15 +0200
+Served asset /application.js - 200 OK (6ms)
+
+
+Started GET "/assets/IMG_3052@2x.jpg" for 127.0.0.1 at 2014-05-06 20:57:15 +0200
+Served asset /IMG_3052@2x.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/progress.gif" for 127.0.0.1 at 2014-05-06 20:57:15 +0200
+Served asset /progress.gif - 200 OK (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-06 21:01:31 +0200
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.2ms)
+Compiled welcome.js  (0ms)  (pid 18135)
+Compiled supersized.3.2.7.min.js  (0ms)  (pid 18135)
+Compiled application.js  (5ms)  (pid 18135)
+Completed 200 OK in 27.4ms (Views: 27.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-06 21:01:31 +0200
+Processing by WelcomeController#index as */*
+  Rendered welcome/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 4.5ms (Views: 4.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-06 21:01:31 +0200
+Served asset /application.css - 200 OK (2ms)
+
+
+Started GET "/assets/reset.css?body=1" for 127.0.0.1 at 2014-05-06 21:01:31 +0200
+Served asset /reset.css - 200 OK (0ms)
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-05-06 21:01:31 +0200
+Served asset /welcome.css - 200 OK (0ms)
+
+
+Started GET "/assets/supersized.core.css?body=1" for 127.0.0.1 at 2014-05-06 21:01:31 +0200
+Served asset /supersized.core.css - 200 OK (0ms)
+
+
+Started GET "/assets/supersized.3.2.7.min.js?body=1" for 127.0.0.1 at 2014-05-06 21:01:31 +0200
+Served asset /supersized.3.2.7.min.js - 200 OK (6ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-05-06 21:01:31 +0200
+Served asset /welcome.js - 200 OK (4ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-06 21:01:31 +0200
+Served asset /application.js - 200 OK (4ms)
+
+
+Started GET "/assets/IMG_3052@2x.jpg" for 127.0.0.1 at 2014-05-06 21:01:31 +0200
+Served asset /IMG_3052@2x.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/v-peace.jpg" for 127.0.0.1 at 2014-05-06 21:01:31 +0200
+Served asset /v-peace.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/progress.gif" for 127.0.0.1 at 2014-05-06 21:01:31 +0200
+Served asset /progress.gif - 200 OK (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-06 21:02:37 +0200
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.2ms)
+Compiled welcome.js  (0ms)  (pid 18135)
+Compiled application.js  (2ms)  (pid 18135)
+Completed 200 OK in 21.6ms (Views: 21.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-06 21:02:37 +0200
+Processing by WelcomeController#index as */*
+  Rendered welcome/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 4.7ms (Views: 4.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-06 21:02:37 +0200
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/supersized.3.2.7.min.js?body=1" for 127.0.0.1 at 2014-05-06 21:02:37 +0200
+Served asset /supersized.3.2.7.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/reset.css?body=1" for 127.0.0.1 at 2014-05-06 21:02:37 +0200
+Served asset /reset.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-05-06 21:02:37 +0200
+Served asset /welcome.js - 200 OK (2ms)
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-05-06 21:02:37 +0200
+Served asset /welcome.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/supersized.core.css?body=1" for 127.0.0.1 at 2014-05-06 21:02:37 +0200
+Served asset /supersized.core.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-06 21:02:37 +0200
+Served asset /application.js - 304 Not Modified (6ms)
+
+
+Started GET "/assets/IMG_3052@2x.jpg" for 127.0.0.1 at 2014-05-06 21:02:37 +0200
+Served asset /IMG_3052@2x.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/v-peace.jpg" for 127.0.0.1 at 2014-05-06 21:02:37 +0200
+Served asset /v-peace.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/progress.gif" for 127.0.0.1 at 2014-05-06 21:02:37 +0200
+Served asset /progress.gif - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-06 21:02:40 +0200
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 3.6ms (Views: 3.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-06 21:02:40 +0200
+Processing by WelcomeController#index as */*
+  Rendered welcome/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 7.3ms (Views: 7.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-06 21:02:40 +0200
+Served asset /application.css - 304 Not Modified (3ms)
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-05-06 21:02:40 +0200
+Served asset /welcome.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/reset.css?body=1" for 127.0.0.1 at 2014-05-06 21:02:40 +0200
+Served asset /reset.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-05-06 21:02:40 +0200
+Served asset /welcome.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/supersized.core.css?body=1" for 127.0.0.1 at 2014-05-06 21:02:40 +0200
+Served asset /supersized.core.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/supersized.3.2.7.min.js?body=1" for 127.0.0.1 at 2014-05-06 21:02:40 +0200
+Served asset /supersized.3.2.7.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-06 21:02:40 +0200
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/IMG_3052@2x.jpg" for 127.0.0.1 at 2014-05-06 21:02:40 +0200
+Served asset /IMG_3052@2x.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/v-peace.jpg" for 127.0.0.1 at 2014-05-06 21:02:40 +0200
+Served asset /v-peace.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/progress.gif" for 127.0.0.1 at 2014-05-06 21:02:40 +0200
+Served asset /progress.gif - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-06 21:03:38 +0200
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.2ms)
+Compiled welcome.js  (0ms)  (pid 18135)
+Compiled application.js  (1ms)  (pid 18135)
+Completed 200 OK in 17.5ms (Views: 17.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-06 21:03:38 +0200
+Processing by WelcomeController#index as */*
+  Rendered welcome/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 4.6ms (Views: 4.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-06 21:03:38 +0200
+Served asset /application.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/reset.css?body=1" for 127.0.0.1 at 2014-05-06 21:03:38 +0200
+Served asset /reset.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/supersized.core.css?body=1" for 127.0.0.1 at 2014-05-06 21:03:38 +0200
+Served asset /supersized.core.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-05-06 21:03:38 +0200
+Served asset /welcome.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-05-06 21:03:38 +0200
+Served asset /welcome.js - 200 OK (2ms)
+
+
+Started GET "/assets/supersized.3.2.7.min.js?body=1" for 127.0.0.1 at 2014-05-06 21:03:38 +0200
+Served asset /supersized.3.2.7.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-06 21:03:38 +0200
+Served asset /application.js - 304 Not Modified (4ms)
+
+
+Started GET "/assets/IMG_3052@2x.jpg" for 127.0.0.1 at 2014-05-06 21:03:38 +0200
+Served asset /IMG_3052@2x.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/v-peace.jpg" for 127.0.0.1 at 2014-05-06 21:03:38 +0200
+Served asset /v-peace.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/progress.gif" for 127.0.0.1 at 2014-05-06 21:03:38 +0200
+Served asset /progress.gif - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-06 21:03:43 +0200
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 3.3ms (Views: 3.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-06 21:03:43 +0200
+Processing by WelcomeController#index as */*
+  Rendered welcome/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 5.6ms (Views: 5.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-05-06 21:03:43 +0200
+Served asset /welcome.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/reset.css?body=1" for 127.0.0.1 at 2014-05-06 21:03:43 +0200
+Served asset /reset.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-05-06 21:03:43 +0200
+Served asset /welcome.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/supersized.core.css?body=1" for 127.0.0.1 at 2014-05-06 21:03:43 +0200
+Served asset /supersized.core.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/supersized.3.2.7.min.js?body=1" for 127.0.0.1 at 2014-05-06 21:03:43 +0200
+Served asset /supersized.3.2.7.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-06 21:03:43 +0200
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-06 21:03:43 +0200
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/IMG_3052@2x.jpg" for 127.0.0.1 at 2014-05-06 21:03:43 +0200
+Served asset /IMG_3052@2x.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/v-peace.jpg" for 127.0.0.1 at 2014-05-06 21:03:43 +0200
+Served asset /v-peace.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/progress.gif" for 127.0.0.1 at 2014-05-06 21:03:43 +0200
+Served asset /progress.gif - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-06 21:03:44 +0200
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 5.9ms (Views: 5.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-06 21:03:44 +0200
+Processing by WelcomeController#index as */*
+  Rendered welcome/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 5.6ms (Views: 5.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-06 21:03:44 +0200
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/supersized.core.css?body=1" for 127.0.0.1 at 2014-05-06 21:03:44 +0200
+Served asset /supersized.core.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-05-06 21:03:44 +0200
+Served asset /welcome.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-05-06 21:03:44 +0200
+Served asset /welcome.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/supersized.3.2.7.min.js?body=1" for 127.0.0.1 at 2014-05-06 21:03:44 +0200
+Served asset /supersized.3.2.7.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/reset.css?body=1" for 127.0.0.1 at 2014-05-06 21:03:44 +0200
+Served asset /reset.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-06 21:03:44 +0200
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-06 21:03:44 +0200
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 4.9ms (Views: 4.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-06 21:03:44 +0200
+Processing by WelcomeController#index as */*
+  Rendered welcome/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 5.7ms (Views: 5.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/reset.css?body=1" for 127.0.0.1 at 2014-05-06 21:03:44 +0200
+Served asset /reset.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-05-06 21:03:44 +0200
+Served asset /welcome.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/supersized.3.2.7.min.js?body=1" for 127.0.0.1 at 2014-05-06 21:03:44 +0200
+Served asset /supersized.3.2.7.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-06 21:03:44 +0200
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-05-06 21:03:44 +0200
+Served asset /welcome.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/supersized.core.css?body=1" for 127.0.0.1 at 2014-05-06 21:03:44 +0200
+Served asset /supersized.core.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-06 21:03:44 +0200
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-06 21:03:44 +0200
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 5.6ms (Views: 5.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-06 21:03:44 +0200
+Processing by WelcomeController#index as */*
+  Rendered welcome/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 7.6ms (Views: 7.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-06 21:03:44 +0200
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-05-06 21:03:44 +0200
+Served asset /welcome.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/reset.css?body=1" for 127.0.0.1 at 2014-05-06 21:03:44 +0200
+Served asset /reset.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/supersized.3.2.7.min.js?body=1" for 127.0.0.1 at 2014-05-06 21:03:44 +0200
+Served asset /supersized.3.2.7.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-05-06 21:03:44 +0200
+Served asset /welcome.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/supersized.core.css?body=1" for 127.0.0.1 at 2014-05-06 21:03:44 +0200
+Served asset /supersized.core.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-06 21:03:44 +0200
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-06 21:03:44 +0200
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 4.5ms (Views: 4.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-06 21:03:44 +0200
+Processing by WelcomeController#index as */*
+  Rendered welcome/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 5.6ms (Views: 5.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/supersized.3.2.7.min.js?body=1" for 127.0.0.1 at 2014-05-06 21:03:44 +0200
+Served asset /supersized.3.2.7.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-05-06 21:03:44 +0200
+Served asset /welcome.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/reset.css?body=1" for 127.0.0.1 at 2014-05-06 21:03:44 +0200
+Served asset /reset.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-05-06 21:03:44 +0200
+Served asset /welcome.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/supersized.core.css?body=1" for 127.0.0.1 at 2014-05-06 21:03:44 +0200
+Served asset /supersized.core.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-06 21:03:44 +0200
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-06 21:03:44 +0200
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-06 21:03:44 +0200
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 5.0ms (Views: 4.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-06 21:03:44 +0200
+Processing by WelcomeController#index as */*
+  Rendered welcome/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 8.5ms (Views: 8.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-06 21:03:44 +0200
+Served asset /application.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/reset.css?body=1" for 127.0.0.1 at 2014-05-06 21:03:44 +0200
+Served asset /reset.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/supersized.core.css?body=1" for 127.0.0.1 at 2014-05-06 21:03:44 +0200
+Served asset /supersized.core.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/supersized.3.2.7.min.js?body=1" for 127.0.0.1 at 2014-05-06 21:03:44 +0200
+Served asset /supersized.3.2.7.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-05-06 21:03:44 +0200
+Served asset /welcome.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-05-06 21:03:44 +0200
+Served asset /welcome.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-06 21:03:44 +0200
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/IMG_3052@2x.jpg" for 127.0.0.1 at 2014-05-06 21:03:46 +0200
+Served asset /IMG_3052@2x.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/v-peace.jpg" for 127.0.0.1 at 2014-05-06 21:03:46 +0200
+Served asset /v-peace.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/progress.gif" for 127.0.0.1 at 2014-05-06 21:03:46 +0200
+Served asset /progress.gif - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-06 21:05:10 +0200
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.3ms)
+Compiled welcome.js  (0ms)  (pid 18135)
+Compiled application.js  (1ms)  (pid 18135)
+Completed 200 OK in 38.1ms (Views: 37.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-06 21:05:10 +0200
+Processing by WelcomeController#index as */*
+  Rendered welcome/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 7.3ms (Views: 7.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-06 21:05:10 +0200
+Served asset /application.css - 200 OK (2ms)
+
+
+Started GET "/assets/reset.css?body=1" for 127.0.0.1 at 2014-05-06 21:05:10 +0200
+Served asset /reset.css - 200 OK (0ms)
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-05-06 21:05:10 +0200
+Served asset /welcome.css - 200 OK (0ms)
+
+
+Started GET "/assets/supersized.3.2.7.min.js?body=1" for 127.0.0.1 at 2014-05-06 21:05:10 +0200
+Served asset /supersized.3.2.7.min.js - 200 OK (0ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-05-06 21:05:10 +0200
+Served asset /welcome.js - 200 OK (4ms)
+
+
+Started GET "/assets/supersized.core.css?body=1" for 127.0.0.1 at 2014-05-06 21:05:10 +0200
+Served asset /supersized.core.css - 200 OK (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-06 21:05:10 +0200
+Served asset /application.js - 200 OK (5ms)
+
+
+Started GET "/assets/IMG_3052@2x.jpg" for 127.0.0.1 at 2014-05-06 21:05:11 +0200
+Served asset /IMG_3052@2x.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/v-peace.jpg" for 127.0.0.1 at 2014-05-06 21:05:11 +0200
+Served asset /v-peace.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/progress.gif" for 127.0.0.1 at 2014-05-06 21:05:11 +0200
+Served asset /progress.gif - 200 OK (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-06 21:06:39 +0200
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.2ms)
+Compiled welcome.js  (0ms)  (pid 18135)
+Compiled application.js  (1ms)  (pid 18135)
+Completed 200 OK in 22.7ms (Views: 22.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-06 21:06:40 +0200
+Processing by WelcomeController#index as */*
+  Rendered welcome/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 4.9ms (Views: 4.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-06 21:06:40 +0200
+Served asset /application.css - 200 OK (0ms)
+
+
+Started GET "/assets/supersized.core.css?body=1" for 127.0.0.1 at 2014-05-06 21:06:40 +0200
+Served asset /supersized.core.css - 200 OK (0ms)
+
+
+Started GET "/assets/reset.css?body=1" for 127.0.0.1 at 2014-05-06 21:06:40 +0200
+Served asset /reset.css - 200 OK (0ms)
+
+
+Started GET "/assets/supersized.3.2.7.min.js?body=1" for 127.0.0.1 at 2014-05-06 21:06:40 +0200
+Served asset /supersized.3.2.7.min.js - 200 OK (0ms)
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-05-06 21:06:40 +0200
+Served asset /welcome.css - 200 OK (0ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-05-06 21:06:40 +0200
+Served asset /welcome.js - 200 OK (3ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-06 21:06:40 +0200
+Served asset /application.js - 200 OK (5ms)
+
+
+Started GET "/assets/IMG_3052@2x.jpg" for 127.0.0.1 at 2014-05-06 21:06:40 +0200
+Served asset /IMG_3052@2x.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/v-peace.jpg" for 127.0.0.1 at 2014-05-06 21:06:40 +0200
+Served asset /v-peace.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/progress.gif" for 127.0.0.1 at 2014-05-06 21:06:40 +0200
+Served asset /progress.gif - 200 OK (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-06 21:06:45 +0200
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 3.5ms (Views: 3.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-06 21:06:45 +0200
+Processing by WelcomeController#index as */*
+  Rendered welcome/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 7.6ms (Views: 7.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-06 21:06:45 +0200
+Served asset /application.css - 200 OK (0ms)
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-05-06 21:06:45 +0200
+Served asset /welcome.css - 200 OK (0ms)
+
+
+Started GET "/assets/supersized.core.css?body=1" for 127.0.0.1 at 2014-05-06 21:06:45 +0200
+Served asset /supersized.core.css - 200 OK (0ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-05-06 21:06:45 +0200
+Served asset /welcome.js - 200 OK (0ms)
+
+
+Started GET "/assets/reset.css?body=1" for 127.0.0.1 at 2014-05-06 21:06:45 +0200
+Served asset /reset.css - 200 OK (0ms)
+
+
+Started GET "/assets/supersized.3.2.7.min.js?body=1" for 127.0.0.1 at 2014-05-06 21:06:45 +0200
+Served asset /supersized.3.2.7.min.js - 200 OK (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-06 21:06:45 +0200
+Served asset /application.js - 200 OK (0ms)
+
+
+Started GET "/assets/IMG_3052@2x.jpg" for 127.0.0.1 at 2014-05-06 21:06:45 +0200
+Served asset /IMG_3052@2x.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/v-peace.jpg" for 127.0.0.1 at 2014-05-06 21:06:45 +0200
+Served asset /v-peace.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/progress.gif" for 127.0.0.1 at 2014-05-06 21:06:45 +0200
+Served asset /progress.gif - 200 OK (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-06 21:07:37 +0200
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.3ms)
+Compiled supersized.css  (0ms)  (pid 18135)
+Compiled application.css  (11ms)  (pid 18135)
+Completed 200 OK in 51.9ms (Views: 51.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-06 21:07:37 +0200
+Processing by WelcomeController#index as */*
+  Rendered welcome/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 5.2ms (Views: 5.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-06 21:07:38 +0200
+Served asset /application.css - 200 OK (7ms)
+
+
+Started GET "/assets/reset.css?body=1" for 127.0.0.1 at 2014-05-06 21:07:38 +0200
+Served asset /reset.css - 200 OK (0ms)
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-05-06 21:07:38 +0200
+Served asset /welcome.css - 200 OK (0ms)
+
+
+Started GET "/assets/supersized.css?body=1" for 127.0.0.1 at 2014-05-06 21:07:38 +0200
+Served asset /supersized.css - 200 OK (1ms)
+
+
+Started GET "/assets/supersized.3.2.7.min.js?body=1" for 127.0.0.1 at 2014-05-06 21:07:38 +0200
+Served asset /supersized.3.2.7.min.js - 200 OK (0ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-05-06 21:07:38 +0200
+Served asset /welcome.js - 200 OK (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-06 21:07:38 +0200
+Served asset /application.js - 200 OK (0ms)
+
+
+Started GET "/assets/IMG_3052@2x.jpg" for 127.0.0.1 at 2014-05-06 21:07:38 +0200
+Served asset /IMG_3052@2x.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/v-peace.jpg" for 127.0.0.1 at 2014-05-06 21:07:38 +0200
+Served asset /v-peace.jpg - 200 OK (0ms)
+
+
+Started GET "/Downloads/buildinternet-supersized-2ccedfd/slideshow/img/progress.gif" for 127.0.0.1 at 2014-05-06 21:07:38 +0200
+
+ActionController::RoutingError (No route matches [GET] "/Downloads/buildinternet-supersized-2ccedfd/slideshow/img/progress.gif"):
+  actionpack (3.2.17) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.17) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.17) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.17) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.17) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.17) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.17) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.17) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  actionpack (3.2.17) lib/action_dispatch/middleware/static.rb:63:in `call'
+  railties (3.2.17) lib/rails/engine.rb:484:in `call'
+  railties (3.2.17) lib/rails/application.rb:231:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.17) lib/rails/rack/log_tailer.rb:17:in `call'
+  rack (1.4.5) lib/rack/handler/webrick.rb:59:in `service'
+  /Users/tjunghans/.rvm/rubies/ruby-2.1.0/lib/ruby/2.1.0/webrick/httpserver.rb:138:in `service'
+  /Users/tjunghans/.rvm/rubies/ruby-2.1.0/lib/ruby/2.1.0/webrick/httpserver.rb:94:in `run'
+  /Users/tjunghans/.rvm/rubies/ruby-2.1.0/lib/ruby/2.1.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /Users/tjunghans/.rvm/gems/ruby-2.1.0/gems/actionpack-3.2.17/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-06 21:11:00 +0200
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.2ms)
+Compiled supersized.css  (0ms)  (pid 18135)
+Compiled application.css  (2ms)  (pid 18135)
+Completed 200 OK in 19.5ms (Views: 19.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-06 21:11:00 +0200
+Processing by WelcomeController#index as */*
+  Rendered welcome/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 9.1ms (Views: 9.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-06 21:11:00 +0200
+Served asset /application.css - 200 OK (16ms)
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-05-06 21:11:00 +0200
+Served asset /welcome.css - 200 OK (0ms)
+
+
+Started GET "/assets/reset.css?body=1" for 127.0.0.1 at 2014-05-06 21:11:00 +0200
+Served asset /reset.css - 200 OK (0ms)
+
+
+Started GET "/assets/supersized.css?body=1" for 127.0.0.1 at 2014-05-06 21:11:00 +0200
+Served asset /supersized.css - 200 OK (5ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-05-06 21:11:00 +0200
+Served asset /welcome.js - 200 OK (0ms)
+
+
+Started GET "/assets/supersized.3.2.7.min.js?body=1" for 127.0.0.1 at 2014-05-06 21:11:00 +0200
+Served asset /supersized.3.2.7.min.js - 200 OK (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-06 21:11:00 +0200
+Served asset /application.js - 200 OK (0ms)
+
+
+Started GET "/assets/IMG_3052@2x.jpg" for 127.0.0.1 at 2014-05-06 21:11:01 +0200
+Served asset /IMG_3052@2x.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/v-peace.jpg" for 127.0.0.1 at 2014-05-06 21:11:01 +0200
+Served asset /v-peace.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/assets/images/progress.gif" for 127.0.0.1 at 2014-05-06 21:11:01 +0200
+Served asset /assets/images/progress.gif - 404 Not Found (2ms)
+
+ActionController::RoutingError (No route matches [GET] "/assets/assets/images/progress.gif"):
+  actionpack (3.2.17) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.17) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.17) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.17) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.17) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.17) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.17) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.17) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  actionpack (3.2.17) lib/action_dispatch/middleware/static.rb:63:in `call'
+  railties (3.2.17) lib/rails/engine.rb:484:in `call'
+  railties (3.2.17) lib/rails/application.rb:231:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.17) lib/rails/rack/log_tailer.rb:17:in `call'
+  rack (1.4.5) lib/rack/handler/webrick.rb:59:in `service'
+  /Users/tjunghans/.rvm/rubies/ruby-2.1.0/lib/ruby/2.1.0/webrick/httpserver.rb:138:in `service'
+  /Users/tjunghans/.rvm/rubies/ruby-2.1.0/lib/ruby/2.1.0/webrick/httpserver.rb:94:in `run'
+  /Users/tjunghans/.rvm/rubies/ruby-2.1.0/lib/ruby/2.1.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /Users/tjunghans/.rvm/gems/ruby-2.1.0/gems/actionpack-3.2.17/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-06 21:11:10 +0200
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.4ms)
+Compiled supersized.css  (0ms)  (pid 18135)
+Compiled application.css  (5ms)  (pid 18135)
+Completed 200 OK in 22.5ms (Views: 22.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-06 21:11:10 +0200
+Processing by WelcomeController#index as */*
+  Rendered welcome/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 4.5ms (Views: 4.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-06 21:11:10 +0200
+Served asset /application.css - 200 OK (13ms)
+
+
+Started GET "/assets/reset.css?body=1" for 127.0.0.1 at 2014-05-06 21:11:10 +0200
+Served asset /reset.css - 200 OK (0ms)
+
+
+Started GET "/assets/supersized.3.2.7.min.js?body=1" for 127.0.0.1 at 2014-05-06 21:11:10 +0200
+Served asset /supersized.3.2.7.min.js - 200 OK (0ms)
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-05-06 21:11:10 +0200
+Served asset /welcome.css - 200 OK (0ms)
+
+
+Started GET "/assets/supersized.css?body=1" for 127.0.0.1 at 2014-05-06 21:11:10 +0200
+Served asset /supersized.css - 200 OK (2ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-05-06 21:11:10 +0200
+Served asset /welcome.js - 200 OK (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-06 21:11:10 +0200
+Served asset /application.js - 200 OK (0ms)
+
+
+Started GET "/assets/IMG_3052@2x.jpg" for 127.0.0.1 at 2014-05-06 21:11:11 +0200
+Served asset /IMG_3052@2x.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/v-peace.jpg" for 127.0.0.1 at 2014-05-06 21:11:11 +0200
+Served asset /v-peace.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/images/progress.gif" for 127.0.0.1 at 2014-05-06 21:11:11 +0200
+Served asset /images/progress.gif - 404 Not Found (4ms)
+
+ActionController::RoutingError (No route matches [GET] "/assets/images/progress.gif"):
+  actionpack (3.2.17) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.17) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.17) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.17) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.17) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.17) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.17) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.17) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  actionpack (3.2.17) lib/action_dispatch/middleware/static.rb:63:in `call'
+  railties (3.2.17) lib/rails/engine.rb:484:in `call'
+  railties (3.2.17) lib/rails/application.rb:231:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.17) lib/rails/rack/log_tailer.rb:17:in `call'
+  rack (1.4.5) lib/rack/handler/webrick.rb:59:in `service'
+  /Users/tjunghans/.rvm/rubies/ruby-2.1.0/lib/ruby/2.1.0/webrick/httpserver.rb:138:in `service'
+  /Users/tjunghans/.rvm/rubies/ruby-2.1.0/lib/ruby/2.1.0/webrick/httpserver.rb:94:in `run'
+  /Users/tjunghans/.rvm/rubies/ruby-2.1.0/lib/ruby/2.1.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /Users/tjunghans/.rvm/gems/ruby-2.1.0/gems/actionpack-3.2.17/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.9ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-06 21:11:55 +0200
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 4.8ms (Views: 4.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-06 21:11:55 +0200
+Processing by WelcomeController#index as */*
+  Rendered welcome/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 7.1ms (Views: 7.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-06 21:11:55 +0200
+Served asset /application.css - 200 OK (0ms)
+
+
+Started GET "/assets/reset.css?body=1" for 127.0.0.1 at 2014-05-06 21:11:55 +0200
+Served asset /reset.css - 200 OK (0ms)
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-05-06 21:11:55 +0200
+Served asset /welcome.css - 200 OK (0ms)
+
+
+Started GET "/assets/supersized.css?body=1" for 127.0.0.1 at 2014-05-06 21:11:55 +0200
+Served asset /supersized.css - 200 OK (0ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-05-06 21:11:55 +0200
+Served asset /welcome.js - 200 OK (0ms)
+
+
+Started GET "/assets/supersized.3.2.7.min.js?body=1" for 127.0.0.1 at 2014-05-06 21:11:55 +0200
+Served asset /supersized.3.2.7.min.js - 200 OK (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-06 21:11:55 +0200
+Served asset /application.js - 200 OK (0ms)
+
+
+Started GET "/assets/IMG_3052@2x.jpg" for 127.0.0.1 at 2014-05-06 21:11:56 +0200
+Served asset /IMG_3052@2x.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/v-peace.jpg" for 127.0.0.1 at 2014-05-06 21:11:56 +0200
+Served asset /v-peace.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/images/progress.gif" for 127.0.0.1 at 2014-05-06 21:11:56 +0200
+Served asset /images/progress.gif - 404 Not Found (3ms)
+
+ActionController::RoutingError (No route matches [GET] "/assets/images/progress.gif"):
+  actionpack (3.2.17) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.17) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.17) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.17) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.17) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.17) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.17) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.17) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  actionpack (3.2.17) lib/action_dispatch/middleware/static.rb:63:in `call'
+  railties (3.2.17) lib/rails/engine.rb:484:in `call'
+  railties (3.2.17) lib/rails/application.rb:231:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.17) lib/rails/rack/log_tailer.rb:17:in `call'
+  rack (1.4.5) lib/rack/handler/webrick.rb:59:in `service'
+  /Users/tjunghans/.rvm/rubies/ruby-2.1.0/lib/ruby/2.1.0/webrick/httpserver.rb:138:in `service'
+  /Users/tjunghans/.rvm/rubies/ruby-2.1.0/lib/ruby/2.1.0/webrick/httpserver.rb:94:in `run'
+  /Users/tjunghans/.rvm/rubies/ruby-2.1.0/lib/ruby/2.1.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /Users/tjunghans/.rvm/gems/ruby-2.1.0/gems/actionpack-3.2.17/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-06 21:13:33 +0200
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 3.6ms (Views: 3.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-06 21:13:33 +0200
+Processing by WelcomeController#index as */*
+  Rendered welcome/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 5.0ms (Views: 4.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-06 21:13:33 +0200
+Served asset /application.css - 200 OK (0ms)
+
+
+Started GET "/assets/supersized.css?body=1" for 127.0.0.1 at 2014-05-06 21:13:33 +0200
+Served asset /supersized.css - 200 OK (0ms)
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-05-06 21:13:33 +0200
+Served asset /welcome.css - 200 OK (0ms)
+
+
+Started GET "/assets/supersized.3.2.7.min.js?body=1" for 127.0.0.1 at 2014-05-06 21:13:33 +0200
+Served asset /supersized.3.2.7.min.js - 200 OK (0ms)
+
+
+Started GET "/assets/reset.css?body=1" for 127.0.0.1 at 2014-05-06 21:13:33 +0200
+Served asset /reset.css - 200 OK (0ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-05-06 21:13:33 +0200
+Served asset /welcome.js - 200 OK (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-06 21:13:33 +0200
+Served asset /application.js - 200 OK (0ms)
+
+
+Started GET "/assets/IMG_3052@2x.jpg" for 127.0.0.1 at 2014-05-06 21:13:33 +0200
+Served asset /IMG_3052@2x.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/v-peace.jpg" for 127.0.0.1 at 2014-05-06 21:13:33 +0200
+Served asset /v-peace.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/images/progress.gif" for 127.0.0.1 at 2014-05-06 21:13:33 +0200
+Served asset /images/progress.gif - 404 Not Found (2ms)
+
+ActionController::RoutingError (No route matches [GET] "/assets/images/progress.gif"):
+  actionpack (3.2.17) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.17) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.17) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.17) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.17) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.17) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.17) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.17) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  actionpack (3.2.17) lib/action_dispatch/middleware/static.rb:63:in `call'
+  railties (3.2.17) lib/rails/engine.rb:484:in `call'
+  railties (3.2.17) lib/rails/application.rb:231:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.17) lib/rails/rack/log_tailer.rb:17:in `call'
+  rack (1.4.5) lib/rack/handler/webrick.rb:59:in `service'
+  /Users/tjunghans/.rvm/rubies/ruby-2.1.0/lib/ruby/2.1.0/webrick/httpserver.rb:138:in `service'
+  /Users/tjunghans/.rvm/rubies/ruby-2.1.0/lib/ruby/2.1.0/webrick/httpserver.rb:94:in `run'
+  /Users/tjunghans/.rvm/rubies/ruby-2.1.0/lib/ruby/2.1.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /Users/tjunghans/.rvm/gems/ruby-2.1.0/gems/actionpack-3.2.17/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.6ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-06 21:14:00 +0200
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.2ms)
+Compiled supersized.css  (0ms)  (pid 18135)
+Compiled application.css  (6ms)  (pid 18135)
+Completed 200 OK in 25.2ms (Views: 25.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-06 21:14:00 +0200
+Processing by WelcomeController#index as */*
+  Rendered welcome/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 4.7ms (Views: 4.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/reset.css?body=1" for 127.0.0.1 at 2014-05-06 21:14:00 +0200
+Served asset /reset.css - 200 OK (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-06 21:14:00 +0200
+Served asset /application.css - 200 OK (10ms)
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-05-06 21:14:00 +0200
+Served asset /welcome.css - 200 OK (0ms)
+
+
+Started GET "/assets/supersized.css?body=1" for 127.0.0.1 at 2014-05-06 21:14:00 +0200
+Served asset /supersized.css - 200 OK (2ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-05-06 21:14:00 +0200
+Served asset /welcome.js - 200 OK (0ms)
+
+
+Started GET "/assets/supersized.3.2.7.min.js?body=1" for 127.0.0.1 at 2014-05-06 21:14:00 +0200
+Served asset /supersized.3.2.7.min.js - 200 OK (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-06 21:14:00 +0200
+Served asset /application.js - 200 OK (0ms)
+
+
+Started GET "/assets/IMG_3052@2x.jpg" for 127.0.0.1 at 2014-05-06 21:14:01 +0200
+Served asset /IMG_3052@2x.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/v-peace.jpg" for 127.0.0.1 at 2014-05-06 21:14:01 +0200
+Served asset /v-peace.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/images/progress.gif" for 127.0.0.1 at 2014-05-06 21:14:01 +0200
+Served asset /images/progress.gif - 404 Not Found (3ms)
+
+ActionController::RoutingError (No route matches [GET] "/assets/images/progress.gif"):
+  actionpack (3.2.17) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.17) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.17) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.17) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.17) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.17) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.17) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.17) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  actionpack (3.2.17) lib/action_dispatch/middleware/static.rb:63:in `call'
+  railties (3.2.17) lib/rails/engine.rb:484:in `call'
+  railties (3.2.17) lib/rails/application.rb:231:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.17) lib/rails/rack/log_tailer.rb:17:in `call'
+  rack (1.4.5) lib/rack/handler/webrick.rb:59:in `service'
+  /Users/tjunghans/.rvm/rubies/ruby-2.1.0/lib/ruby/2.1.0/webrick/httpserver.rb:138:in `service'
+  /Users/tjunghans/.rvm/rubies/ruby-2.1.0/lib/ruby/2.1.0/webrick/httpserver.rb:94:in `run'
+  /Users/tjunghans/.rvm/rubies/ruby-2.1.0/lib/ruby/2.1.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /Users/tjunghans/.rvm/gems/ruby-2.1.0/gems/actionpack-3.2.17/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.0ms)
+
+
+Started GET "/images/progress.gif" for 127.0.0.1 at 2014-05-06 21:14:01 +0200
+
+ActionController::RoutingError (No route matches [GET] "/images/progress.gif"):
+  actionpack (3.2.17) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.17) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.17) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.17) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.17) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.17) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.17) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.17) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  actionpack (3.2.17) lib/action_dispatch/middleware/static.rb:63:in `call'
+  railties (3.2.17) lib/rails/engine.rb:484:in `call'
+  railties (3.2.17) lib/rails/application.rb:231:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.17) lib/rails/rack/log_tailer.rb:17:in `call'
+  rack (1.4.5) lib/rack/handler/webrick.rb:59:in `service'
+  /Users/tjunghans/.rvm/rubies/ruby-2.1.0/lib/ruby/2.1.0/webrick/httpserver.rb:138:in `service'
+  /Users/tjunghans/.rvm/rubies/ruby-2.1.0/lib/ruby/2.1.0/webrick/httpserver.rb:94:in `run'
+  /Users/tjunghans/.rvm/rubies/ruby-2.1.0/lib/ruby/2.1.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /Users/tjunghans/.rvm/gems/ruby-2.1.0/gems/actionpack-3.2.17/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-06 21:19:45 +0200
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.2ms)
+Compiled supersized.css  (0ms)  (pid 18135)
+Compiled application.css  (2ms)  (pid 18135)
+Completed 200 OK in 18.1ms (Views: 18.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-06 21:19:45 +0200
+Processing by WelcomeController#index as */*
+  Rendered welcome/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 4.6ms (Views: 4.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-06 21:19:46 +0200
+Served asset /application.css - 200 OK (12ms)
+
+
+Started GET "/assets/supersized.3.2.7.min.js?body=1" for 127.0.0.1 at 2014-05-06 21:19:46 +0200
+Served asset /supersized.3.2.7.min.js - 200 OK (0ms)
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-05-06 21:19:46 +0200
+Served asset /welcome.css - 200 OK (0ms)
+
+
+Started GET "/assets/reset.css?body=1" for 127.0.0.1 at 2014-05-06 21:19:46 +0200
+Served asset /reset.css - 200 OK (0ms)
+
+
+Started GET "/assets/supersized.css?body=1" for 127.0.0.1 at 2014-05-06 21:19:46 +0200
+Served asset /supersized.css - 200 OK (2ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-05-06 21:19:46 +0200
+Served asset /welcome.js - 200 OK (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-06 21:19:46 +0200
+Served asset /application.js - 200 OK (0ms)
+
+
+Started GET "/assets/IMG_3052@2x.jpg" for 127.0.0.1 at 2014-05-06 21:19:46 +0200
+Served asset /IMG_3052@2x.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/v-peace.jpg" for 127.0.0.1 at 2014-05-06 21:19:46 +0200
+Served asset /v-peace.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/images/progress.gif" for 127.0.0.1 at 2014-05-06 21:19:46 +0200
+Served asset /images/progress.gif - 404 Not Found (3ms)
+
+ActionController::RoutingError (No route matches [GET] "/assets/images/progress.gif"):
+  actionpack (3.2.17) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.17) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.17) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.17) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.17) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.17) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.17) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.17) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  actionpack (3.2.17) lib/action_dispatch/middleware/static.rb:63:in `call'
+  railties (3.2.17) lib/rails/engine.rb:484:in `call'
+  railties (3.2.17) lib/rails/application.rb:231:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.17) lib/rails/rack/log_tailer.rb:17:in `call'
+  rack (1.4.5) lib/rack/handler/webrick.rb:59:in `service'
+  /Users/tjunghans/.rvm/rubies/ruby-2.1.0/lib/ruby/2.1.0/webrick/httpserver.rb:138:in `service'
+  /Users/tjunghans/.rvm/rubies/ruby-2.1.0/lib/ruby/2.1.0/webrick/httpserver.rb:94:in `run'
+  /Users/tjunghans/.rvm/rubies/ruby-2.1.0/lib/ruby/2.1.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /Users/tjunghans/.rvm/gems/ruby-2.1.0/gems/actionpack-3.2.17/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-06 21:20:16 +0200
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 3.6ms (Views: 3.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-06 21:20:16 +0200
+Processing by WelcomeController#index as */*
+  Rendered welcome/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 6.0ms (Views: 5.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-06 21:20:16 +0200
+Served asset /application.css - 200 OK (0ms)
+
+
+Started GET "/assets/reset.css?body=1" for 127.0.0.1 at 2014-05-06 21:20:16 +0200
+Served asset /reset.css - 200 OK (0ms)
+
+
+Started GET "/assets/supersized.css?body=1" for 127.0.0.1 at 2014-05-06 21:20:16 +0200
+Served asset /supersized.css - 200 OK (0ms)
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-05-06 21:20:16 +0200
+Served asset /welcome.css - 200 OK (0ms)
+
+
+Started GET "/assets/supersized.3.2.7.min.js?body=1" for 127.0.0.1 at 2014-05-06 21:20:16 +0200
+Served asset /supersized.3.2.7.min.js - 200 OK (0ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-05-06 21:20:16 +0200
+Served asset /welcome.js - 200 OK (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-06 21:20:16 +0200
+Served asset /application.js - 200 OK (0ms)
+
+
+Started GET "/assets/IMG_3052@2x.jpg" for 127.0.0.1 at 2014-05-06 21:20:16 +0200
+Served asset /IMG_3052@2x.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/v-peace.jpg" for 127.0.0.1 at 2014-05-06 21:20:16 +0200
+Served asset /v-peace.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/images/progress.gif" for 127.0.0.1 at 2014-05-06 21:20:16 +0200
+Served asset /images/progress.gif - 404 Not Found (4ms)
+
+ActionController::RoutingError (No route matches [GET] "/assets/images/progress.gif"):
+  actionpack (3.2.17) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.17) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.17) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.17) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.17) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.17) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.17) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.17) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  actionpack (3.2.17) lib/action_dispatch/middleware/static.rb:63:in `call'
+  railties (3.2.17) lib/rails/engine.rb:484:in `call'
+  railties (3.2.17) lib/rails/application.rb:231:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.17) lib/rails/rack/log_tailer.rb:17:in `call'
+  rack (1.4.5) lib/rack/handler/webrick.rb:59:in `service'
+  /Users/tjunghans/.rvm/rubies/ruby-2.1.0/lib/ruby/2.1.0/webrick/httpserver.rb:138:in `service'
+  /Users/tjunghans/.rvm/rubies/ruby-2.1.0/lib/ruby/2.1.0/webrick/httpserver.rb:94:in `run'
+  /Users/tjunghans/.rvm/rubies/ruby-2.1.0/lib/ruby/2.1.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /Users/tjunghans/.rvm/gems/ruby-2.1.0/gems/actionpack-3.2.17/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-06 21:20:34 +0200
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.2ms)
+Compiled supersized.css  (0ms)  (pid 18135)
+Compiled application.css  (2ms)  (pid 18135)
+Completed 200 OK in 22.4ms (Views: 22.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-06 21:20:34 +0200
+Processing by WelcomeController#index as */*
+  Rendered welcome/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 7.5ms (Views: 7.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-06 21:20:34 +0200
+Served asset /application.css - 200 OK (13ms)
+
+
+Started GET "/assets/reset.css?body=1" for 127.0.0.1 at 2014-05-06 21:20:34 +0200
+Served asset /reset.css - 200 OK (0ms)
+
+
+Started GET "/assets/supersized.css?body=1" for 127.0.0.1 at 2014-05-06 21:20:34 +0200
+Served asset /supersized.css - 200 OK (1ms)
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-05-06 21:20:34 +0200
+Served asset /welcome.css - 200 OK (0ms)
+
+
+Started GET "/assets/supersized.3.2.7.min.js?body=1" for 127.0.0.1 at 2014-05-06 21:20:34 +0200
+Served asset /supersized.3.2.7.min.js - 200 OK (0ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-05-06 21:20:34 +0200
+Served asset /welcome.js - 200 OK (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-06 21:20:34 +0200
+Served asset /application.js - 200 OK (0ms)
+
+
+Started GET "/assets/IMG_3052@2x.jpg" for 127.0.0.1 at 2014-05-06 21:20:34 +0200
+Served asset /IMG_3052@2x.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/v-peace.jpg" for 127.0.0.1 at 2014-05-06 21:20:34 +0200
+Served asset /v-peace.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/progress.gif" for 127.0.0.1 at 2014-05-06 21:20:34 +0200
+Served asset /progress.gif - 200 OK (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-06 21:23:59 +0200
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.2ms)
+Compiled welcome.js  (0ms)  (pid 18135)
+Compiled application.js  (1ms)  (pid 18135)
+Completed 200 OK in 27.1ms (Views: 27.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-06 21:23:59 +0200
+Processing by WelcomeController#index as */*
+  Rendered welcome/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 7.8ms (Views: 7.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-06 21:23:59 +0200
+Served asset /application.css - 200 OK (0ms)
+
+
+Started GET "/assets/supersized.css?body=1" for 127.0.0.1 at 2014-05-06 21:23:59 +0200
+Served asset /supersized.css - 200 OK (0ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-05-06 21:23:59 +0200
+Served asset /welcome.js - 200 OK (2ms)
+
+
+Started GET "/assets/supersized.3.2.7.min.js?body=1" for 127.0.0.1 at 2014-05-06 21:23:59 +0200
+Served asset /supersized.3.2.7.min.js - 200 OK (0ms)
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-05-06 21:23:59 +0200
+Served asset /welcome.css - 200 OK (0ms)
+
+
+Started GET "/assets/reset.css?body=1" for 127.0.0.1 at 2014-05-06 21:23:59 +0200
+Served asset /reset.css - 200 OK (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-06 21:23:59 +0200
+Served asset /application.js - 200 OK (5ms)
+
+
+Started GET "/assets/v-red.jpg" for 127.0.0.1 at 2014-05-06 21:24:00 +0200
+Served asset /v-red.jpg - 200 OK (6ms)
+
+
+Started GET "/assets/IMG_3052@2x.jpg" for 127.0.0.1 at 2014-05-06 21:24:00 +0200
+Served asset /IMG_3052@2x.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/v-peace.jpg" for 127.0.0.1 at 2014-05-06 21:24:00 +0200
+Served asset /v-peace.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/progress.gif" for 127.0.0.1 at 2014-05-06 21:24:00 +0200
+Served asset /progress.gif - 200 OK (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-06 21:25:09 +0200
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 6.9ms (Views: 6.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-06 21:25:09 +0200
+Processing by WelcomeController#index as */*
+  Rendered welcome/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 5.6ms (Views: 5.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-06 21:25:09 +0200
+Served asset /application.css - 200 OK (0ms)
+
+
+Started GET "/assets/supersized.css?body=1" for 127.0.0.1 at 2014-05-06 21:25:09 +0200
+Served asset /supersized.css - 200 OK (0ms)
+
+
+Started GET "/assets/reset.css?body=1" for 127.0.0.1 at 2014-05-06 21:25:09 +0200
+Served asset /reset.css - 200 OK (0ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-05-06 21:25:09 +0200
+Served asset /welcome.js - 200 OK (0ms)
+
+
+Started GET "/assets/supersized.3.2.7.min.js?body=1" for 127.0.0.1 at 2014-05-06 21:25:09 +0200
+Served asset /supersized.3.2.7.min.js - 200 OK (0ms)
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-05-06 21:25:09 +0200
+Served asset /welcome.css - 200 OK (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-06 21:25:09 +0200
+Served asset /application.js - 200 OK (0ms)
+
+
+Started GET "/assets/v-red.jpg" for 127.0.0.1 at 2014-05-06 21:25:09 +0200
+Served asset /v-red.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/IMG_3052@2x.jpg" for 127.0.0.1 at 2014-05-06 21:25:09 +0200
+Served asset /IMG_3052@2x.jpg - 404 Not Found (2ms)
+
+ActionController::RoutingError (No route matches [GET] "/assets/IMG_3052@2x.jpg"):
+  actionpack (3.2.17) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.17) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.17) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.17) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.17) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.17) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.17) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.17) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  actionpack (3.2.17) lib/action_dispatch/middleware/static.rb:63:in `call'
+  railties (3.2.17) lib/rails/engine.rb:484:in `call'
+  railties (3.2.17) lib/rails/application.rb:231:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.17) lib/rails/rack/log_tailer.rb:17:in `call'
+  rack (1.4.5) lib/rack/handler/webrick.rb:59:in `service'
+  /Users/tjunghans/.rvm/rubies/ruby-2.1.0/lib/ruby/2.1.0/webrick/httpserver.rb:138:in `service'
+  /Users/tjunghans/.rvm/rubies/ruby-2.1.0/lib/ruby/2.1.0/webrick/httpserver.rb:94:in `run'
+  /Users/tjunghans/.rvm/rubies/ruby-2.1.0/lib/ruby/2.1.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /Users/tjunghans/.rvm/gems/ruby-2.1.0/gems/actionpack-3.2.17/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.6ms)
+
+
+Started GET "/assets/v-peace.jpg" for 127.0.0.1 at 2014-05-06 21:25:09 +0200
+Served asset /v-peace.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/progress.gif" for 127.0.0.1 at 2014-05-06 21:25:09 +0200
+Served asset /progress.gif - 200 OK (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-06 21:25:26 +0200
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.4ms)
+Compiled welcome.js  (0ms)  (pid 18135)
+Compiled application.js  (2ms)  (pid 18135)
+Completed 200 OK in 28.6ms (Views: 28.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-06 21:25:26 +0200
+Processing by WelcomeController#index as */*
+  Rendered welcome/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 5.9ms (Views: 5.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-06 21:25:26 +0200
+Served asset /application.css - 200 OK (0ms)
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-05-06 21:25:26 +0200
+Served asset /welcome.css - 200 OK (0ms)
+
+
+Started GET "/assets/supersized.css?body=1" for 127.0.0.1 at 2014-05-06 21:25:26 +0200
+Served asset /supersized.css - 200 OK (0ms)
+
+
+Started GET "/assets/reset.css?body=1" for 127.0.0.1 at 2014-05-06 21:25:26 +0200
+Served asset /reset.css - 200 OK (0ms)
+
+
+Started GET "/assets/supersized.3.2.7.min.js?body=1" for 127.0.0.1 at 2014-05-06 21:25:26 +0200
+Served asset /supersized.3.2.7.min.js - 200 OK (0ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-05-06 21:25:26 +0200
+Served asset /welcome.js - 200 OK (3ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-06 21:25:26 +0200
+Served asset /application.js - 200 OK (6ms)
+
+
+Started GET "/assets/v-red.jpg" for 127.0.0.1 at 2014-05-06 21:25:26 +0200
+Served asset /v-red.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/IMG_3052.jpg" for 127.0.0.1 at 2014-05-06 21:25:26 +0200
+Served asset /IMG_3052.jpg - 200 OK (8ms)
+
+
+Started GET "/assets/v-peace.jpg" for 127.0.0.1 at 2014-05-06 21:25:26 +0200
+Served asset /v-peace.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/progress.gif" for 127.0.0.1 at 2014-05-06 21:25:26 +0200
+Served asset /progress.gif - 200 OK (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-06 21:28:39 +0200
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.3ms)
+Compiled welcome.js  (0ms)  (pid 18135)
+Compiled application.js  (1ms)  (pid 18135)
+Completed 200 OK in 29.5ms (Views: 29.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-06 21:28:39 +0200
+Processing by WelcomeController#index as */*
+  Rendered welcome/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 11.9ms (Views: 11.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-06 21:28:40 +0200
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/supersized.3.2.7.min.js?body=1" for 127.0.0.1 at 2014-05-06 21:28:40 +0200
+Served asset /supersized.3.2.7.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/reset.css?body=1" for 127.0.0.1 at 2014-05-06 21:28:40 +0200
+Served asset /reset.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-05-06 21:28:40 +0200
+Served asset /welcome.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-05-06 21:28:40 +0200
+Served asset /welcome.js - 200 OK (3ms)
+
+
+Started GET "/assets/supersized.css?body=1" for 127.0.0.1 at 2014-05-06 21:28:40 +0200
+Served asset /supersized.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-06 21:28:40 +0200
+Served asset /application.js - 304 Not Modified (4ms)
+
+
+Started GET "/assets/inana-002.jpg" for 127.0.0.1 at 2014-05-06 21:28:40 +0200
+Served asset /inana-002.jpg - 200 OK (4ms)
+
+
+Started GET "/assets/IMG_3052.jpg" for 127.0.0.1 at 2014-05-06 21:28:40 +0200
+Served asset /IMG_3052.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/v-peace.jpg" for 127.0.0.1 at 2014-05-06 21:28:40 +0200
+Served asset /v-peace.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/progress.gif" for 127.0.0.1 at 2014-05-06 21:28:40 +0200
+Served asset /progress.gif - 304 Not Modified (0ms)
+
+
+Started GET "/assets/inana-001.jpg" for 127.0.0.1 at 2014-05-06 21:28:42 +0200
+Served asset /inana-001.jpg - 200 OK (4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-06 21:29:30 +0200
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.3ms)
+Compiled welcome.js  (0ms)  (pid 18135)
+Compiled application.js  (2ms)  (pid 18135)
+Completed 200 OK in 29.7ms (Views: 29.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-06 21:29:30 +0200
+Processing by WelcomeController#index as */*
+  Rendered welcome/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 7.2ms (Views: 7.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-06 21:29:30 +0200
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/supersized.css?body=1" for 127.0.0.1 at 2014-05-06 21:29:30 +0200
+Served asset /supersized.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/reset.css?body=1" for 127.0.0.1 at 2014-05-06 21:29:30 +0200
+Served asset /reset.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-05-06 21:29:30 +0200
+Served asset /welcome.js - 200 OK (2ms)
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-05-06 21:29:30 +0200
+Served asset /welcome.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/supersized.3.2.7.min.js?body=1" for 127.0.0.1 at 2014-05-06 21:29:30 +0200
+Served asset /supersized.3.2.7.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-06 21:29:30 +0200
+Served asset /application.js - 304 Not Modified (4ms)
+
+
+Started GET "/assets/inana-002.jpg" for 127.0.0.1 at 2014-05-06 21:29:31 +0200
+Served asset /inana-002.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/inana-003.jpg" for 127.0.0.1 at 2014-05-06 21:29:31 +0200
+Served asset /inana-003.jpg - 200 OK (8ms)
+
+
+Started GET "/assets/inana-004.jpg" for 127.0.0.1 at 2014-05-06 21:29:31 +0200
+Served asset /inana-004.jpg - 200 OK (5ms)
+
+
+Started GET "/assets/progress.gif" for 127.0.0.1 at 2014-05-06 21:29:31 +0200
+Served asset /progress.gif - 304 Not Modified (0ms)
+
+
+Started GET "/assets/inana-001.jpg" for 127.0.0.1 at 2014-05-06 21:29:34 +0200
+Served asset /inana-001.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-06 21:29:48 +0200
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.2ms)
+Compiled welcome.js  (0ms)  (pid 18135)
+Compiled application.js  (1ms)  (pid 18135)
+Completed 200 OK in 19.7ms (Views: 19.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-06 21:29:48 +0200
+Processing by WelcomeController#index as */*
+  Rendered welcome/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 5.0ms (Views: 4.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-06 21:29:48 +0200
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/reset.css?body=1" for 127.0.0.1 at 2014-05-06 21:29:48 +0200
+Served asset /reset.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-05-06 21:29:48 +0200
+Served asset /welcome.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/supersized.css?body=1" for 127.0.0.1 at 2014-05-06 21:29:48 +0200
+Served asset /supersized.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/supersized.3.2.7.min.js?body=1" for 127.0.0.1 at 2014-05-06 21:29:48 +0200
+Served asset /supersized.3.2.7.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-05-06 21:29:48 +0200
+Served asset /welcome.js - 200 OK (3ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-06 21:29:48 +0200
+Served asset /application.js - 304 Not Modified (4ms)
+
+
+Started GET "/assets/inana-001.jpg" for 127.0.0.1 at 2014-05-06 21:29:48 +0200
+Served asset /inana-001.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/inana-002.jpg" for 127.0.0.1 at 2014-05-06 21:29:48 +0200
+Served asset /inana-002.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/inana-003.jpg" for 127.0.0.1 at 2014-05-06 21:29:48 +0200
+Served asset /inana-003.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/progress.gif" for 127.0.0.1 at 2014-05-06 21:29:48 +0200
+Served asset /progress.gif - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-06 21:31:30 +0200
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 3.4ms (Views: 3.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-06 21:31:30 +0200
+Processing by WelcomeController#index as */*
+  Rendered welcome/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 5.8ms (Views: 5.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-06 21:31:31 +0200
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/reset.css?body=1" for 127.0.0.1 at 2014-05-06 21:31:31 +0200
+Served asset /reset.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-05-06 21:31:31 +0200
+Served asset /welcome.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/supersized.css?body=1" for 127.0.0.1 at 2014-05-06 21:31:31 +0200
+Served asset /supersized.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-05-06 21:31:31 +0200
+Served asset /welcome.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/supersized.3.2.7.min.js?body=1" for 127.0.0.1 at 2014-05-06 21:31:31 +0200
+Served asset /supersized.3.2.7.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-06 21:31:31 +0200
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/inana-003.jpg" for 127.0.0.1 at 2014-05-06 21:31:31 +0200
+Served asset /inana-003.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/inana-004.jpg" for 127.0.0.1 at 2014-05-06 21:31:31 +0200
+Served asset /inana-004.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/inana-001.jpg" for 127.0.0.1 at 2014-05-06 21:31:31 +0200
+Served asset /inana-001.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/progress.gif" for 127.0.0.1 at 2014-05-06 21:31:31 +0200
+Served asset /progress.gif - 304 Not Modified (0ms)
+
+
+Started GET "/assets/inana-002.jpg" for 127.0.0.1 at 2014-05-06 21:31:34 +0200
+Served asset /inana-002.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-06 21:32:03 +0200
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.2ms)
+Compiled welcome.js  (0ms)  (pid 18135)
+Compiled application.js  (1ms)  (pid 18135)
+Completed 200 OK in 20.3ms (Views: 20.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-06 21:32:03 +0200
+Processing by WelcomeController#index as */*
+  Rendered welcome/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 4.9ms (Views: 4.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-06 21:32:03 +0200
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/reset.css?body=1" for 127.0.0.1 at 2014-05-06 21:32:03 +0200
+Served asset /reset.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-05-06 21:32:03 +0200
+Served asset /welcome.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/supersized.css?body=1" for 127.0.0.1 at 2014-05-06 21:32:03 +0200
+Served asset /supersized.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-05-06 21:32:03 +0200
+Served asset /welcome.js - 200 OK (3ms)
+
+
+Started GET "/assets/supersized.3.2.7.min.js?body=1" for 127.0.0.1 at 2014-05-06 21:32:03 +0200
+Served asset /supersized.3.2.7.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-06 21:32:03 +0200
+Served asset /application.js - 304 Not Modified (4ms)
+
+
+Started GET "/assets/inana-002.jpg" for 127.0.0.1 at 2014-05-06 21:32:03 +0200
+Served asset /inana-002.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/inana-004.jpg" for 127.0.0.1 at 2014-05-06 21:32:03 +0200
+Served asset /inana-004.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/inana-001.jpg" for 127.0.0.1 at 2014-05-06 21:32:03 +0200
+Served asset /inana-001.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/progress.gif" for 127.0.0.1 at 2014-05-06 21:32:03 +0200
+Served asset /progress.gif - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-06 21:32:05 +0200
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 3.2ms (Views: 3.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-06 21:32:05 +0200
+Processing by WelcomeController#index as */*
+  Rendered welcome/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 4.6ms (Views: 4.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-06 21:32:05 +0200
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-05-06 21:32:05 +0200
+Served asset /welcome.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/supersized.3.2.7.min.js?body=1" for 127.0.0.1 at 2014-05-06 21:32:05 +0200
+Served asset /supersized.3.2.7.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-05-06 21:32:05 +0200
+Served asset /welcome.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/reset.css?body=1" for 127.0.0.1 at 2014-05-06 21:32:05 +0200
+Served asset /reset.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/supersized.css?body=1" for 127.0.0.1 at 2014-05-06 21:32:05 +0200
+Served asset /supersized.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-06 21:32:05 +0200
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/inana-003.jpg" for 127.0.0.1 at 2014-05-06 21:32:05 +0200
+Served asset /inana-003.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/inana-004.jpg" for 127.0.0.1 at 2014-05-06 21:32:05 +0200
+Served asset /inana-004.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/inana-001.jpg" for 127.0.0.1 at 2014-05-06 21:32:05 +0200
+Served asset /inana-001.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-06 21:32:07 +0200
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 3.9ms (Views: 3.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-06 21:32:07 +0200
+Processing by WelcomeController#index as */*
+  Rendered welcome/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 5.2ms (Views: 5.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-06 21:32:07 +0200
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/supersized.css?body=1" for 127.0.0.1 at 2014-05-06 21:32:07 +0200
+Served asset /supersized.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/supersized.3.2.7.min.js?body=1" for 127.0.0.1 at 2014-05-06 21:32:07 +0200
+Served asset /supersized.3.2.7.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/reset.css?body=1" for 127.0.0.1 at 2014-05-06 21:32:07 +0200
+Served asset /reset.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-05-06 21:32:07 +0200
+Served asset /welcome.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-05-06 21:32:07 +0200
+Served asset /welcome.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-06 21:32:07 +0200
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/inana-003.jpg" for 127.0.0.1 at 2014-05-06 21:32:07 +0200
+Served asset /inana-003.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/inana-001.jpg" for 127.0.0.1 at 2014-05-06 21:32:07 +0200
+Served asset /inana-001.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/inana-004.jpg" for 127.0.0.1 at 2014-05-06 21:32:07 +0200
+Served asset /inana-004.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/inana-002.jpg" for 127.0.0.1 at 2014-05-06 21:32:10 +0200
+Served asset /inana-002.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-06 21:33:19 +0200
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.6ms)
+Compiled welcome.js  (0ms)  (pid 18135)
+Compiled application.js  (1ms)  (pid 18135)
+Completed 200 OK in 33.9ms (Views: 33.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-06 21:33:19 +0200
+Processing by WelcomeController#index as */*
+  Rendered welcome/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 6.5ms (Views: 6.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-06 21:33:19 +0200
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/supersized.css?body=1" for 127.0.0.1 at 2014-05-06 21:33:19 +0200
+Served asset /supersized.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/reset.css?body=1" for 127.0.0.1 at 2014-05-06 21:33:19 +0200
+Served asset /reset.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-05-06 21:33:19 +0200
+Served asset /welcome.js - 200 OK (4ms)
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-05-06 21:33:19 +0200
+Served asset /welcome.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/supersized.3.2.7.min.js?body=1" for 127.0.0.1 at 2014-05-06 21:33:19 +0200
+Served asset /supersized.3.2.7.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-06 21:33:19 +0200
+Served asset /application.js - 304 Not Modified (4ms)
+
+
+Started GET "/assets/inana-005.jpg" for 127.0.0.1 at 2014-05-06 21:33:20 +0200
+Served asset /inana-005.jpg - 200 OK (8ms)
+
+
+Started GET "/assets/inana-001.jpg" for 127.0.0.1 at 2014-05-06 21:33:20 +0200
+Served asset /inana-001.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/inana-004.jpg" for 127.0.0.1 at 2014-05-06 21:33:20 +0200
+Served asset /inana-004.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/progress.gif" for 127.0.0.1 at 2014-05-06 21:33:20 +0200
+Served asset /progress.gif - 304 Not Modified (0ms)
+
+
+Started GET "/assets/inana-002.jpg" for 127.0.0.1 at 2014-05-06 21:33:23 +0200
+Served asset /inana-002.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/inana-003.jpg" for 127.0.0.1 at 2014-05-06 21:33:27 +0200
+Served asset /inana-003.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-06 21:35:36 +0200
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.2ms)
+Compiled welcome.js  (0ms)  (pid 18135)
+Compiled application.js  (1ms)  (pid 18135)
+Completed 200 OK in 27.3ms (Views: 27.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-06 21:35:36 +0200
+Processing by WelcomeController#index as */*
+  Rendered welcome/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 8.6ms (Views: 8.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-06 21:35:36 +0200
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/reset.css?body=1" for 127.0.0.1 at 2014-05-06 21:35:36 +0200
+Served asset /reset.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-05-06 21:35:36 +0200
+Served asset /welcome.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/supersized.3.2.7.min.js?body=1" for 127.0.0.1 at 2014-05-06 21:35:36 +0200
+Served asset /supersized.3.2.7.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-05-06 21:35:36 +0200
+Served asset /welcome.js - 200 OK (4ms)
+
+
+Started GET "/assets/supersized.css?body=1" for 127.0.0.1 at 2014-05-06 21:35:36 +0200
+Served asset /supersized.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-06 21:35:36 +0200
+Served asset /application.js - 304 Not Modified (5ms)
+
+
+Started GET "/assets/inana-006.jpg" for 127.0.0.1 at 2014-05-06 21:35:36 +0200
+Served asset /inana-006.jpg - 200 OK (6ms)
+
+
+Started GET "/assets/inana-003.jpg" for 127.0.0.1 at 2014-05-06 21:35:36 +0200
+Served asset /inana-003.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/inana-004.jpg" for 127.0.0.1 at 2014-05-06 21:35:36 +0200
+Served asset /inana-004.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/progress.gif" for 127.0.0.1 at 2014-05-06 21:35:36 +0200
+Served asset /progress.gif - 304 Not Modified (0ms)
+
+
+Started GET "/assets/inana-001.jpg" for 127.0.0.1 at 2014-05-06 21:35:38 +0200
+Served asset /inana-001.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/inana-005.jpg" for 127.0.0.1 at 2014-05-06 21:35:40 +0200
+Served asset /inana-005.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/inana-002.jpg" for 127.0.0.1 at 2014-05-06 21:35:41 +0200
+Served asset /inana-002.jpg - 304 Not Modified (0ms)
