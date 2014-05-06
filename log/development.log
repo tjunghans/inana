@@ -8047,3 +8047,355 @@ Started GET "/" for 127.0.0.1 at 2014-05-05 22:06:57 +0200
 Processing by WelcomeController#index as */*
   Rendered welcome/index.html.erb within layouts/application (0.4ms)
 Completed 200 OK in 7.4ms (Views: 7.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-06 20:33:18 +0200
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (51.0ms)
+Completed 200 OK in 171.4ms (Views: 160.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-06 20:33:19 +0200
+Processing by WelcomeController#index as */*
+  Rendered welcome/index.html.erb within layouts/application (2.7ms)
+Completed 200 OK in 32.0ms (Views: 29.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-06 20:33:19 +0200
+Served asset /application.css - 304 Not Modified (3ms)
+
+
+Started GET "/assets/reset.css?body=1" for 127.0.0.1 at 2014-05-06 20:33:19 +0200
+Served asset /reset.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/supersized.core.css?body=1" for 127.0.0.1 at 2014-05-06 20:33:19 +0200
+Served asset /supersized.core.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-05-06 20:33:19 +0200
+Served asset /welcome.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/supersized.core.3.2.1.min.js?body=1" for 127.0.0.1 at 2014-05-06 20:33:19 +0200
+Served asset /supersized.core.3.2.1.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-05-06 20:33:19 +0200
+Served asset /welcome.js - 304 Not Modified (1ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-06 20:33:19 +0200
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/IMG_3052@2x.jpg" for 127.0.0.1 at 2014-05-06 20:33:19 +0200
+Served asset /IMG_3052@2x.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/progress.gif" for 127.0.0.1 at 2014-05-06 20:33:19 +0200
+Served asset /progress.gif - 304 Not Modified (1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-06 20:33:53 +0200
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (1.7ms)
+Warning. Error encountered while saving cache /Users/tjunghans/Projects/Private/inana/tmp/cache/sass/6d61c495cbad0aac0b305e1e81a04232729174e2/welcome.css.scssc: can't dump anonymous class #<Class:0x000001038b91c0>
+
+Compiled welcome.css  (109ms)  (pid 18135)
+Compiled application.css  (88ms)  (pid 18135)
+Completed 200 OK in 269.9ms (Views: 269.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-06 20:33:53 +0200
+Processing by WelcomeController#index as */*
+  Rendered welcome/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 6.6ms (Views: 6.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-06 20:33:53 +0200
+Served asset /application.css - 304 Not Modified (16ms)
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-05-06 20:33:53 +0200
+Served asset /welcome.css - 200 OK (3ms)
+
+
+Started GET "/assets/supersized.core.css?body=1" for 127.0.0.1 at 2014-05-06 20:33:53 +0200
+Served asset /supersized.core.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/reset.css?body=1" for 127.0.0.1 at 2014-05-06 20:33:53 +0200
+Served asset /reset.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/supersized.core.3.2.1.min.js?body=1" for 127.0.0.1 at 2014-05-06 20:33:53 +0200
+Served asset /supersized.core.3.2.1.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-05-06 20:33:53 +0200
+Served asset /welcome.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-06 20:33:53 +0200
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/IMG_3052@2x.jpg" for 127.0.0.1 at 2014-05-06 20:33:54 +0200
+Served asset /IMG_3052@2x.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/progress.gif" for 127.0.0.1 at 2014-05-06 20:33:54 +0200
+Served asset /progress.gif - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-06 20:34:57 +0200
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.2ms)
+Warning. Error encountered while saving cache /Users/tjunghans/Projects/Private/inana/tmp/cache/sass/6d61c495cbad0aac0b305e1e81a04232729174e2/welcome.css.scssc: can't dump anonymous class #<Class:0x000001038b91c0>
+
+Compiled welcome.css  (10ms)  (pid 18135)
+Compiled application.css  (4ms)  (pid 18135)
+Completed 200 OK in 37.8ms (Views: 37.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-06 20:34:58 +0200
+Processing by WelcomeController#index as */*
+  Rendered welcome/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 6.6ms (Views: 6.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-06 20:34:58 +0200
+Served asset /application.css - 304 Not Modified (20ms)
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-05-06 20:34:58 +0200
+Served asset /welcome.css - 200 OK (1ms)
+
+
+Started GET "/assets/supersized.core.3.2.1.min.js?body=1" for 127.0.0.1 at 2014-05-06 20:34:58 +0200
+Served asset /supersized.core.3.2.1.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/reset.css?body=1" for 127.0.0.1 at 2014-05-06 20:34:58 +0200
+Served asset /reset.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/supersized.core.css?body=1" for 127.0.0.1 at 2014-05-06 20:34:58 +0200
+Served asset /supersized.core.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-05-06 20:34:58 +0200
+Served asset /welcome.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-06 20:34:58 +0200
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/IMG_3052@2x.jpg" for 127.0.0.1 at 2014-05-06 20:34:58 +0200
+Served asset /IMG_3052@2x.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/progress.gif" for 127.0.0.1 at 2014-05-06 20:34:58 +0200
+Served asset /progress.gif - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-06 20:34:59 +0200
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 3.9ms (Views: 3.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-06 20:34:59 +0200
+Processing by WelcomeController#index as */*
+  Rendered welcome/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 8.8ms (Views: 8.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-06 20:34:59 +0200
+Served asset /application.css - 304 Not Modified (3ms)
+
+
+Started GET "/assets/reset.css?body=1" for 127.0.0.1 at 2014-05-06 20:34:59 +0200
+Served asset /reset.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-05-06 20:34:59 +0200
+Served asset /welcome.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/supersized.core.css?body=1" for 127.0.0.1 at 2014-05-06 20:34:59 +0200
+Served asset /supersized.core.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/supersized.core.3.2.1.min.js?body=1" for 127.0.0.1 at 2014-05-06 20:34:59 +0200
+Served asset /supersized.core.3.2.1.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-05-06 20:34:59 +0200
+Served asset /welcome.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-06 20:34:59 +0200
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/progress.gif" for 127.0.0.1 at 2014-05-06 20:34:59 +0200
+Served asset /progress.gif - 304 Not Modified (0ms)
+
+
+Started GET "/assets/IMG_3052@2x.jpg" for 127.0.0.1 at 2014-05-06 20:34:59 +0200
+Served asset /IMG_3052@2x.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-06 20:35:14 +0200
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.3ms)
+Warning. Error encountered while saving cache /Users/tjunghans/Projects/Private/inana/tmp/cache/sass/6d61c495cbad0aac0b305e1e81a04232729174e2/welcome.css.scssc: can't dump anonymous class #<Class:0x000001038b91c0>
+
+Compiled welcome.css  (8ms)  (pid 18135)
+Compiled application.css  (2ms)  (pid 18135)
+Completed 200 OK in 34.2ms (Views: 34.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-06 20:35:14 +0200
+Processing by WelcomeController#index as */*
+  Rendered welcome/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 6.3ms (Views: 6.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-06 20:35:14 +0200
+Served asset /application.css - 304 Not Modified (14ms)
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-05-06 20:35:14 +0200
+Served asset /welcome.css - 200 OK (2ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-05-06 20:35:14 +0200
+Served asset /welcome.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/reset.css?body=1" for 127.0.0.1 at 2014-05-06 20:35:14 +0200
+Served asset /reset.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/supersized.core.3.2.1.min.js?body=1" for 127.0.0.1 at 2014-05-06 20:35:14 +0200
+Served asset /supersized.core.3.2.1.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/supersized.core.css?body=1" for 127.0.0.1 at 2014-05-06 20:35:14 +0200
+Served asset /supersized.core.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-06 20:35:14 +0200
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/IMG_3052@2x.jpg" for 127.0.0.1 at 2014-05-06 20:35:14 +0200
+Served asset /IMG_3052@2x.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/progress.gif" for 127.0.0.1 at 2014-05-06 20:35:14 +0200
+Served asset /progress.gif - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-06 20:36:40 +0200
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.4ms)
+Warning. Error encountered while saving cache /Users/tjunghans/Projects/Private/inana/tmp/cache/sass/6d61c495cbad0aac0b305e1e81a04232729174e2/welcome.css.scssc: can't dump anonymous class #<Class:0x000001038b91c0>
+
+Compiled welcome.css  (12ms)  (pid 18135)
+Compiled application.css  (2ms)  (pid 18135)
+Completed 200 OK in 34.3ms (Views: 34.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-06 20:36:41 +0200
+Processing by WelcomeController#index as */*
+  Rendered welcome/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 5.3ms (Views: 5.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/reset.css?body=1" for 127.0.0.1 at 2014-05-06 20:36:41 +0200
+Served asset /reset.css - 200 OK (0ms)
+
+
+Started GET "/assets/supersized.core.3.2.1.min.js?body=1" for 127.0.0.1 at 2014-05-06 20:36:41 +0200
+Served asset /supersized.core.3.2.1.min.js - 200 OK (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-06 20:36:41 +0200
+Served asset /application.css - 200 OK (13ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-05-06 20:36:41 +0200
+Served asset /welcome.js - 200 OK (0ms)
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-05-06 20:36:41 +0200
+Served asset /welcome.css - 200 OK (2ms)
+
+
+Started GET "/assets/supersized.core.css?body=1" for 127.0.0.1 at 2014-05-06 20:36:41 +0200
+Served asset /supersized.core.css - 200 OK (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-06 20:36:41 +0200
+Served asset /application.js - 200 OK (0ms)
+
+
+Started GET "/assets/IMG_3052@2x.jpg" for 127.0.0.1 at 2014-05-06 20:36:41 +0200
+Served asset /IMG_3052@2x.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/progress.gif" for 127.0.0.1 at 2014-05-06 20:36:41 +0200
+Served asset /progress.gif - 200 OK (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-06 20:38:51 +0200
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.2ms)
+Warning. Error encountered while saving cache /Users/tjunghans/Projects/Private/inana/tmp/cache/sass/6d61c495cbad0aac0b305e1e81a04232729174e2/welcome.css.scssc: can't dump anonymous class #<Class:0x000001038b91c0>
+
+Compiled welcome.css  (7ms)  (pid 18135)
+Compiled application.css  (2ms)  (pid 18135)
+Completed 200 OK in 30.1ms (Views: 30.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-06 20:38:51 +0200
+Processing by WelcomeController#index as */*
+  Rendered welcome/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 4.8ms (Views: 4.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-06 20:38:51 +0200
+Served asset /application.css - 304 Not Modified (11ms)
+
+
+Started GET "/assets/reset.css?body=1" for 127.0.0.1 at 2014-05-06 20:38:51 +0200
+Served asset /reset.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/supersized.core.css?body=1" for 127.0.0.1 at 2014-05-06 20:38:51 +0200
+Served asset /supersized.core.css - 304 Not Modified (1ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-05-06 20:38:51 +0200
+Served asset /welcome.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-05-06 20:38:51 +0200
+Served asset /welcome.css - 200 OK (1ms)
+
+
+Started GET "/assets/supersized.core.3.2.1.min.js?body=1" for 127.0.0.1 at 2014-05-06 20:38:51 +0200
+Served asset /supersized.core.3.2.1.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-06 20:38:51 +0200
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/IMG_3052@2x.jpg" for 127.0.0.1 at 2014-05-06 20:38:51 +0200
+Served asset /IMG_3052@2x.jpg - 304 Not Modified (0ms)
