@@ -11,5 +11,8 @@
  *= require_self
  *= require "reset"
  *= require "supersized"
+ *= require "fonts"
+ *= require "base"
  *= require_tree .
+ *= require "trumps"
  */

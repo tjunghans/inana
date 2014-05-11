@@ -12746,3 +12746,1465 @@ Served asset /inana-005.jpg - 200 OK (0ms)
 
 Started GET "/assets/inana-002.jpg" for 127.0.0.1 at 2014-05-11 13:03:13 +0200
 Served asset /inana-002.jpg - 200 OK (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-11 13:13:48 +0200
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.0ms)
+Warning. Error encountered while saving cache /Users/tjunghans/Projects/Private/inana/tmp/cache/sass/6d61c495cbad0aac0b305e1e81a04232729174e2/welcome.css.scssc: can't dump anonymous class #<Class:0x000001038b91c0>
+
+Compiled welcome.css  (13ms)  (pid 18135)
+Compiled application.css  (2ms)  (pid 18135)
+Completed 200 OK in 31.8ms (Views: 31.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-11 13:13:48 +0200
+Served asset /application.css - 304 Not Modified (13ms)
+
+
+Started GET "/assets/reset.css?body=1" for 127.0.0.1 at 2014-05-11 13:13:48 +0200
+Served asset /reset.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-05-11 13:13:48 +0200
+Served asset /welcome.css - 200 OK (1ms)
+
+
+Started GET "/assets/supersized.css?body=1" for 127.0.0.1 at 2014-05-11 13:13:48 +0200
+Served asset /supersized.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/supersized.3.2.7.min.js?body=1" for 127.0.0.1 at 2014-05-11 13:13:48 +0200
+Served asset /supersized.3.2.7.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-11 13:13:48 +0200
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-05-11 13:13:48 +0200
+Served asset /welcome.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/inana-004.jpg" for 127.0.0.1 at 2014-05-11 13:13:48 +0200
+Served asset /inana-004.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/inana-002.jpg" for 127.0.0.1 at 2014-05-11 13:13:48 +0200
+Served asset /inana-002.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/inana-003.jpg" for 127.0.0.1 at 2014-05-11 13:13:48 +0200
+Served asset /inana-003.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/progress.gif" for 127.0.0.1 at 2014-05-11 13:13:48 +0200
+Served asset /progress.gif - 304 Not Modified (0ms)
+
+
+Started GET "/assets/inana-001.jpg" for 127.0.0.1 at 2014-05-11 13:13:51 +0200
+Served asset /inana-001.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/inana-006.jpg" for 127.0.0.1 at 2014-05-11 13:13:55 +0200
+Served asset /inana-006.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/inana-005.jpg" for 127.0.0.1 at 2014-05-11 13:13:59 +0200
+Served asset /inana-005.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-11 13:14:31 +0200
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 5.7ms (Views: 5.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-11 13:14:31 +0200
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/reset.css?body=1" for 127.0.0.1 at 2014-05-11 13:14:31 +0200
+Served asset /reset.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/supersized.css?body=1" for 127.0.0.1 at 2014-05-11 13:14:31 +0200
+Served asset /supersized.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-05-11 13:14:31 +0200
+Served asset /welcome.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-11 13:14:31 +0200
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/supersized.3.2.7.min.js?body=1" for 127.0.0.1 at 2014-05-11 13:14:31 +0200
+Served asset /supersized.3.2.7.min.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-05-11 13:14:31 +0200
+Served asset /welcome.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/inana-001.jpg" for 127.0.0.1 at 2014-05-11 13:14:31 +0200
+Served asset /inana-001.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/inana-002.jpg" for 127.0.0.1 at 2014-05-11 13:14:31 +0200
+Served asset /inana-002.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/inana-003.jpg" for 127.0.0.1 at 2014-05-11 13:14:31 +0200
+Served asset /inana-003.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/progress.gif" for 127.0.0.1 at 2014-05-11 13:14:31 +0200
+Served asset /progress.gif - 304 Not Modified (0ms)
+
+
+Started GET "/assets/inana-004.jpg" for 127.0.0.1 at 2014-05-11 13:14:34 +0200
+Served asset /inana-004.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-11 16:54:33 +0200
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (1.8ms)
+Warning. Error encountered while saving cache /Users/tjunghans/Projects/Private/inana/tmp/cache/sass/6d61c495cbad0aac0b305e1e81a04232729174e2/welcome.css.scssc: can't dump anonymous class #<Class:0x000001038b91c0>
+
+Compiled welcome.css  (85ms)  (pid 18135)
+Compiled application.css  (8ms)  (pid 18135)
+Completed 200 OK in 462.1ms (Views: 457.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-11 16:54:34 +0200
+Served asset /application.css - 200 OK (18ms)
+
+
+Started GET "/assets/reset.css?body=1" for 127.0.0.1 at 2014-05-11 16:54:34 +0200
+Served asset /reset.css - 200 OK (0ms)
+
+
+Started GET "/assets/supersized.css?body=1" for 127.0.0.1 at 2014-05-11 16:54:34 +0200
+Served asset /supersized.css - 200 OK (0ms)
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-05-11 16:54:34 +0200
+Served asset /welcome.css - 200 OK (1ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-05-11 16:54:34 +0200
+Served asset /welcome.js - 200 OK (0ms)
+
+
+Started GET "/assets/supersized.3.2.7.min.js?body=1" for 127.0.0.1 at 2014-05-11 16:54:34 +0200
+Served asset /supersized.3.2.7.min.js - 200 OK (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-11 16:54:34 +0200
+Served asset /application.js - 200 OK (0ms)
+
+
+Started GET "/assets/inana-006.jpg" for 127.0.0.1 at 2014-05-11 16:54:35 +0200
+Served asset /inana-006.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/inana-002.jpg" for 127.0.0.1 at 2014-05-11 16:54:35 +0200
+Served asset /inana-002.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/inana-003.jpg" for 127.0.0.1 at 2014-05-11 16:54:35 +0200
+Served asset /inana-003.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/progress.gif" for 127.0.0.1 at 2014-05-11 16:54:35 +0200
+Served asset /progress.gif - 200 OK (0ms)
+
+
+Started GET "/assets/inana-005.jpg" for 127.0.0.1 at 2014-05-11 16:54:38 +0200
+Served asset /inana-005.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/inana-001.jpg" for 127.0.0.1 at 2014-05-11 16:54:42 +0200
+Served asset /inana-001.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/inana-004.jpg" for 127.0.0.1 at 2014-05-11 16:54:46 +0200
+Served asset /inana-004.jpg - 200 OK (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-11 16:55:23 +0200
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.0ms)
+Warning. Error encountered while saving cache /Users/tjunghans/Projects/Private/inana/tmp/cache/sass/6d61c495cbad0aac0b305e1e81a04232729174e2/welcome.css.scssc: can't dump anonymous class #<Class:0x000001038b91c0>
+
+Compiled welcome.css  (35ms)  (pid 18135)
+Compiled application.css  (5ms)  (pid 18135)
+Completed 200 OK in 71.7ms (Views: 71.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-11 16:55:24 +0200
+Served asset /application.css - 200 OK (15ms)
+
+
+Started GET "/assets/reset.css?body=1" for 127.0.0.1 at 2014-05-11 16:55:24 +0200
+Served asset /reset.css - 200 OK (0ms)
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-05-11 16:55:24 +0200
+Served asset /welcome.css - 200 OK (2ms)
+
+
+Started GET "/assets/supersized.css?body=1" for 127.0.0.1 at 2014-05-11 16:55:24 +0200
+Served asset /supersized.css - 200 OK (0ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-05-11 16:55:24 +0200
+Served asset /welcome.js - 200 OK (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-11 16:55:24 +0200
+Served asset /application.js - 200 OK (0ms)
+
+
+Started GET "/assets/supersized.3.2.7.min.js?body=1" for 127.0.0.1 at 2014-05-11 16:55:24 +0200
+Served asset /supersized.3.2.7.min.js - 200 OK (0ms)
+
+
+Started GET "/assets/inana-003.jpg" for 127.0.0.1 at 2014-05-11 16:55:24 +0200
+Served asset /inana-003.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/inana-005.jpg" for 127.0.0.1 at 2014-05-11 16:55:24 +0200
+Served asset /inana-005.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/inana-006.jpg" for 127.0.0.1 at 2014-05-11 16:55:24 +0200
+Served asset /inana-006.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/progress.gif" for 127.0.0.1 at 2014-05-11 16:55:24 +0200
+Served asset /progress.gif - 200 OK (0ms)
+
+
+Started GET "/assets/inana-001.jpg" for 127.0.0.1 at 2014-05-11 16:55:27 +0200
+Served asset /inana-001.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/inana-002.jpg" for 127.0.0.1 at 2014-05-11 16:55:32 +0200
+Served asset /inana-002.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/inana-004.jpg" for 127.0.0.1 at 2014-05-11 16:55:36 +0200
+Served asset /inana-004.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/inana-003.jpg" for 127.0.0.1 at 2014-05-11 16:58:08 +0200
+Served asset /inana-003.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/inana-004.jpg" for 127.0.0.1 at 2014-05-11 16:58:13 +0200
+Served asset /inana-004.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/inana-002.jpg" for 127.0.0.1 at 2014-05-11 16:58:18 +0200
+Served asset /inana-002.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/inana-001.jpg" for 127.0.0.1 at 2014-05-11 16:58:21 +0200
+Served asset /inana-001.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/inana-006.jpg" for 127.0.0.1 at 2014-05-11 16:58:26 +0200
+Served asset /inana-006.jpg - 200 OK (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-11 17:01:22 +0200
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 3.8ms (Views: 3.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-11 17:01:22 +0200
+Served asset /application.css - 200 OK (0ms)
+
+
+Started GET "/assets/reset.css?body=1" for 127.0.0.1 at 2014-05-11 17:01:22 +0200
+Served asset /reset.css - 200 OK (0ms)
+
+
+Started GET "/assets/supersized.css?body=1" for 127.0.0.1 at 2014-05-11 17:01:22 +0200
+Served asset /supersized.css - 200 OK (0ms)
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-05-11 17:01:22 +0200
+Served asset /welcome.css - 200 OK (0ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-05-11 17:01:22 +0200
+Served asset /welcome.js - 200 OK (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-11 17:01:22 +0200
+Served asset /application.js - 200 OK (0ms)
+
+
+Started GET "/assets/supersized.3.2.7.min.js?body=1" for 127.0.0.1 at 2014-05-11 17:01:22 +0200
+Served asset /supersized.3.2.7.min.js - 200 OK (0ms)
+
+
+Started GET "/assets/inana-003.jpg" for 127.0.0.1 at 2014-05-11 17:01:23 +0200
+Served asset /inana-003.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/inana-004.jpg" for 127.0.0.1 at 2014-05-11 17:01:23 +0200
+Served asset /inana-004.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/inana-006.jpg" for 127.0.0.1 at 2014-05-11 17:01:23 +0200
+Served asset /inana-006.jpg - 200 OK (6ms)
+
+
+Started GET "/assets/progress.gif" for 127.0.0.1 at 2014-05-11 17:01:23 +0200
+Served asset /progress.gif - 200 OK (0ms)
+
+
+Started GET "/assets/inana-001.jpg" for 127.0.0.1 at 2014-05-11 17:01:26 +0200
+Served asset /inana-001.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/inana-005.jpg" for 127.0.0.1 at 2014-05-11 17:01:30 +0200
+Served asset /inana-005.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/inana-002.jpg" for 127.0.0.1 at 2014-05-11 17:01:34 +0200
+Served asset /inana-002.jpg - 200 OK (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-11 17:16:26 +0200
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (4.2ms)
+Warning. Error encountered while saving cache /Users/tjunghans/Projects/Private/inana/tmp/cache/sass/6d61c495cbad0aac0b305e1e81a04232729174e2/trumps.css.scssc: can't dump anonymous class #<Class:0x000001038b91c0>
+
+Compiled trumps.css  (2ms)  (pid 18135)
+Compiled application.css  (14ms)  (pid 18135)
+Completed 200 OK in 42.4ms (Views: 42.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-11 17:16:26 +0200
+Served asset /application.css - 200 OK (15ms)
+
+
+Started GET "/assets/reset.css?body=1" for 127.0.0.1 at 2014-05-11 17:16:26 +0200
+Served asset /reset.css - 200 OK (0ms)
+
+
+Started GET "/assets/trumps.css?body=1" for 127.0.0.1 at 2014-05-11 17:16:26 +0200
+Served asset /trumps.css - 200 OK (3ms)
+
+
+Started GET "/assets/supersized.css?body=1" for 127.0.0.1 at 2014-05-11 17:16:26 +0200
+Served asset /supersized.css - 200 OK (0ms)
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-05-11 17:16:26 +0200
+Served asset /welcome.css - 200 OK (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-11 17:16:27 +0200
+Served asset /application.js - 200 OK (0ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-05-11 17:16:27 +0200
+Served asset /welcome.js - 200 OK (0ms)
+
+
+Started GET "/assets/supersized.3.2.7.min.js?body=1" for 127.0.0.1 at 2014-05-11 17:16:27 +0200
+Served asset /supersized.3.2.7.min.js - 200 OK (0ms)
+
+
+Started GET "/assets/inana-001.jpg" for 127.0.0.1 at 2014-05-11 17:16:27 +0200
+Served asset /inana-001.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/inana-004.jpg" for 127.0.0.1 at 2014-05-11 17:16:27 +0200
+Served asset /inana-004.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/inana-005.jpg" for 127.0.0.1 at 2014-05-11 17:16:27 +0200
+Served asset /inana-005.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/progress.gif" for 127.0.0.1 at 2014-05-11 17:16:27 +0200
+Served asset /progress.gif - 200 OK (0ms)
+
+
+Started GET "/assets/inana-006.jpg" for 127.0.0.1 at 2014-05-11 17:16:30 +0200
+Served asset /inana-006.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/inana-003.jpg" for 127.0.0.1 at 2014-05-11 17:16:34 +0200
+Served asset /inana-003.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/inana-002.jpg" for 127.0.0.1 at 2014-05-11 17:16:38 +0200
+Served asset /inana-002.jpg - 200 OK (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-11 17:16:52 +0200
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.0ms)
+Warning. Error encountered while saving cache /Users/tjunghans/Projects/Private/inana/tmp/cache/sass/6d61c495cbad0aac0b305e1e81a04232729174e2/trumps.css.scssc: can't dump anonymous class #<Class:0x000001038b91c0>
+
+Compiled trumps.css  (1ms)  (pid 18135)
+Compiled application.css  (3ms)  (pid 18135)
+Completed 200 OK in 26.7ms (Views: 26.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-11 17:16:52 +0200
+Served asset /application.css - 200 OK (12ms)
+
+
+Started GET "/assets/reset.css?body=1" for 127.0.0.1 at 2014-05-11 17:16:52 +0200
+Served asset /reset.css - 200 OK (0ms)
+
+
+Started GET "/assets/supersized.css?body=1" for 127.0.0.1 at 2014-05-11 17:16:52 +0200
+Served asset /supersized.css - 200 OK (0ms)
+
+
+Started GET "/assets/trumps.css?body=1" for 127.0.0.1 at 2014-05-11 17:16:52 +0200
+Served asset /trumps.css - 200 OK (1ms)
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-05-11 17:16:52 +0200
+Served asset /welcome.css - 200 OK (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-11 17:16:52 +0200
+Served asset /application.js - 200 OK (2ms)
+
+
+Started GET "/assets/supersized.3.2.7.min.js?body=1" for 127.0.0.1 at 2014-05-11 17:16:52 +0200
+Served asset /supersized.3.2.7.min.js - 200 OK (0ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-05-11 17:16:52 +0200
+Served asset /welcome.js - 200 OK (0ms)
+
+
+Started GET "/assets/inana-005.jpg" for 127.0.0.1 at 2014-05-11 17:16:53 +0200
+Served asset /inana-005.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/inana-006.jpg" for 127.0.0.1 at 2014-05-11 17:16:53 +0200
+Served asset /inana-006.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/progress.gif" for 127.0.0.1 at 2014-05-11 17:16:53 +0200
+Served asset /progress.gif - 200 OK (0ms)
+
+
+Started GET "/assets/inana-003.jpg" for 127.0.0.1 at 2014-05-11 17:16:53 +0200
+Served asset /inana-003.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/inana-004.jpg" for 127.0.0.1 at 2014-05-11 17:16:56 +0200
+Served asset /inana-004.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/inana-001.jpg" for 127.0.0.1 at 2014-05-11 17:17:00 +0200
+Served asset /inana-001.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/inana-002.jpg" for 127.0.0.1 at 2014-05-11 17:17:04 +0200
+Served asset /inana-002.jpg - 200 OK (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-11 17:57:01 +0200
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.1ms)
+Warning. Error encountered while saving cache /Users/tjunghans/Projects/Private/inana/tmp/cache/sass/6d61c495cbad0aac0b305e1e81a04232729174e2/welcome.css.scssc: can't dump anonymous class #<Class:0x000001038b91c0>
+
+Compiled welcome.css  (27ms)  (pid 18135)
+Compiled application.css  (6ms)  (pid 18135)
+Completed 200 OK in 71.3ms (Views: 71.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-11 17:57:01 +0200
+Served asset /application.css - 200 OK (17ms)
+
+
+Started GET "/assets/reset.css?body=1" for 127.0.0.1 at 2014-05-11 17:57:01 +0200
+Served asset /reset.css - 200 OK (0ms)
+
+
+Started GET "/assets/supersized.css?body=1" for 127.0.0.1 at 2014-05-11 17:57:01 +0200
+Served asset /supersized.css - 200 OK (0ms)
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-05-11 17:57:01 +0200
+Served asset /welcome.css - 200 OK (3ms)
+
+
+Started GET "/assets/trumps.css?body=1" for 127.0.0.1 at 2014-05-11 17:57:01 +0200
+Served asset /trumps.css - 200 OK (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-11 17:57:02 +0200
+Served asset /application.js - 200 OK (0ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-05-11 17:57:02 +0200
+Served asset /welcome.js - 200 OK (0ms)
+
+
+Started GET "/assets/supersized.3.2.7.min.js?body=1" for 127.0.0.1 at 2014-05-11 17:57:02 +0200
+Served asset /supersized.3.2.7.min.js - 200 OK (0ms)
+
+
+Started GET "/assets/inana-001.jpg" for 127.0.0.1 at 2014-05-11 17:57:02 +0200
+Served asset /inana-001.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/inana-006.jpg" for 127.0.0.1 at 2014-05-11 17:57:02 +0200
+Served asset /inana-006.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/inana-005.jpg" for 127.0.0.1 at 2014-05-11 17:57:02 +0200
+Served asset /inana-005.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/progress.gif" for 127.0.0.1 at 2014-05-11 17:57:02 +0200
+Served asset /progress.gif - 200 OK (0ms)
+
+
+Started GET "/assets/inana-003.jpg" for 127.0.0.1 at 2014-05-11 17:57:06 +0200
+Served asset /inana-003.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/inana-002.jpg" for 127.0.0.1 at 2014-05-11 17:57:10 +0200
+Served asset /inana-002.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/inana-004.jpg" for 127.0.0.1 at 2014-05-11 17:57:14 +0200
+Served asset /inana-004.jpg - 200 OK (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-11 17:57:37 +0200
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.1ms)
+Warning. Error encountered while saving cache /Users/tjunghans/Projects/Private/inana/tmp/cache/sass/6d61c495cbad0aac0b305e1e81a04232729174e2/welcome.css.scssc: can't dump anonymous class #<Class:0x000001038b91c0>
+
+Compiled welcome.css  (27ms)  (pid 18135)
+Compiled application.css  (5ms)  (pid 18135)
+Completed 200 OK in 60.7ms (Views: 60.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-11 17:57:37 +0200
+Served asset /application.css - 200 OK (18ms)
+
+
+Started GET "/assets/reset.css?body=1" for 127.0.0.1 at 2014-05-11 17:57:37 +0200
+Served asset /reset.css - 200 OK (0ms)
+
+
+Started GET "/assets/trumps.css?body=1" for 127.0.0.1 at 2014-05-11 17:57:37 +0200
+Served asset /trumps.css - 200 OK (0ms)
+
+
+Started GET "/assets/supersized.css?body=1" for 127.0.0.1 at 2014-05-11 17:57:37 +0200
+Served asset /supersized.css - 200 OK (0ms)
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-05-11 17:57:37 +0200
+Served asset /welcome.css - 200 OK (3ms)
+
+
+Started GET "/assets/supersized.3.2.7.min.js?body=1" for 127.0.0.1 at 2014-05-11 17:57:37 +0200
+Served asset /supersized.3.2.7.min.js - 200 OK (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-11 17:57:37 +0200
+Served asset /application.js - 200 OK (0ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-05-11 17:57:37 +0200
+Served asset /welcome.js - 200 OK (0ms)
+
+
+Started GET "/assets/inana-006.jpg" for 127.0.0.1 at 2014-05-11 17:57:38 +0200
+Served asset /inana-006.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/inana-005.jpg" for 127.0.0.1 at 2014-05-11 17:57:38 +0200
+Served asset /inana-005.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/inana-002.jpg" for 127.0.0.1 at 2014-05-11 17:57:38 +0200
+Served asset /inana-002.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/progress.gif" for 127.0.0.1 at 2014-05-11 17:57:38 +0200
+Served asset /progress.gif - 200 OK (0ms)
+
+
+Started GET "/assets/inana-003.jpg" for 127.0.0.1 at 2014-05-11 17:57:41 +0200
+Served asset /inana-003.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/inana-001.jpg" for 127.0.0.1 at 2014-05-11 17:57:45 +0200
+Served asset /inana-001.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/inana-004.jpg" for 127.0.0.1 at 2014-05-11 17:57:49 +0200
+Served asset /inana-004.jpg - 200 OK (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-11 17:59:42 +0200
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.0ms)
+Warning. Error encountered while saving cache /Users/tjunghans/Projects/Private/inana/tmp/cache/sass/6d61c495cbad0aac0b305e1e81a04232729174e2/welcome.css.scssc: can't dump anonymous class #<Class:0x000001038b91c0>
+
+Compiled welcome.css  (25ms)  (pid 18135)
+Compiled application.css  (3ms)  (pid 18135)
+Completed 200 OK in 53.7ms (Views: 53.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-11 17:59:43 +0200
+Served asset /application.css - 200 OK (16ms)
+
+
+Started GET "/assets/reset.css?body=1" for 127.0.0.1 at 2014-05-11 17:59:43 +0200
+Served asset /reset.css - 200 OK (0ms)
+
+
+Started GET "/assets/supersized.css?body=1" for 127.0.0.1 at 2014-05-11 17:59:43 +0200
+Served asset /supersized.css - 200 OK (0ms)
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-05-11 17:59:43 +0200
+Served asset /welcome.css - 200 OK (1ms)
+
+
+Started GET "/assets/trumps.css?body=1" for 127.0.0.1 at 2014-05-11 17:59:43 +0200
+Served asset /trumps.css - 200 OK (0ms)
+
+
+Started GET "/assets/supersized.3.2.7.min.js?body=1" for 127.0.0.1 at 2014-05-11 17:59:43 +0200
+Served asset /supersized.3.2.7.min.js - 200 OK (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-11 17:59:43 +0200
+Served asset /application.js - 200 OK (0ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-05-11 17:59:43 +0200
+Served asset /welcome.js - 200 OK (0ms)
+
+
+Started GET "/assets/inana-005.jpg" for 127.0.0.1 at 2014-05-11 17:59:44 +0200
+Served asset /inana-005.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/inana-003.jpg" for 127.0.0.1 at 2014-05-11 17:59:44 +0200
+Served asset /inana-003.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/inana-004.jpg" for 127.0.0.1 at 2014-05-11 17:59:44 +0200
+Served asset /inana-004.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/progress.gif" for 127.0.0.1 at 2014-05-11 17:59:44 +0200
+Served asset /progress.gif - 200 OK (0ms)
+
+
+Started GET "/assets/inana-001.jpg" for 127.0.0.1 at 2014-05-11 17:59:47 +0200
+Served asset /inana-001.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/inana-002.jpg" for 127.0.0.1 at 2014-05-11 17:59:51 +0200
+Served asset /inana-002.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/inana-006.jpg" for 127.0.0.1 at 2014-05-11 17:59:55 +0200
+Served asset /inana-006.jpg - 200 OK (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-11 17:59:59 +0200
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.0ms)
+Warning. Error encountered while saving cache /Users/tjunghans/Projects/Private/inana/tmp/cache/sass/6d61c495cbad0aac0b305e1e81a04232729174e2/welcome.css.scssc: can't dump anonymous class #<Class:0x000001038b91c0>
+
+Compiled welcome.css  (18ms)  (pid 18135)
+Compiled application.css  (4ms)  (pid 18135)
+Completed 200 OK in 46.7ms (Views: 46.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-11 17:59:59 +0200
+Served asset /application.css - 200 OK (10ms)
+
+
+Started GET "/assets/supersized.css?body=1" for 127.0.0.1 at 2014-05-11 17:59:59 +0200
+Served asset /supersized.css - 200 OK (0ms)
+
+
+Started GET "/assets/reset.css?body=1" for 127.0.0.1 at 2014-05-11 17:59:59 +0200
+Served asset /reset.css - 200 OK (0ms)
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-05-11 17:59:59 +0200
+Served asset /welcome.css - 200 OK (1ms)
+
+
+Started GET "/assets/trumps.css?body=1" for 127.0.0.1 at 2014-05-11 17:59:59 +0200
+Served asset /trumps.css - 200 OK (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-11 17:59:59 +0200
+Served asset /application.js - 200 OK (0ms)
+
+
+Started GET "/assets/supersized.3.2.7.min.js?body=1" for 127.0.0.1 at 2014-05-11 17:59:59 +0200
+Served asset /supersized.3.2.7.min.js - 200 OK (0ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-05-11 17:59:59 +0200
+Served asset /welcome.js - 200 OK (0ms)
+
+
+Started GET "/assets/inana-003.jpg" for 127.0.0.1 at 2014-05-11 18:00:00 +0200
+Served asset /inana-003.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/inana-006.jpg" for 127.0.0.1 at 2014-05-11 18:00:00 +0200
+Served asset /inana-006.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/inana-004.jpg" for 127.0.0.1 at 2014-05-11 18:00:00 +0200
+Served asset /inana-004.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/progress.gif" for 127.0.0.1 at 2014-05-11 18:00:00 +0200
+Served asset /progress.gif - 200 OK (0ms)
+
+
+Started GET "/assets/inana-001.jpg" for 127.0.0.1 at 2014-05-11 18:00:03 +0200
+Served asset /inana-001.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/inana-005.jpg" for 127.0.0.1 at 2014-05-11 18:00:07 +0200
+Served asset /inana-005.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/inana-002.jpg" for 127.0.0.1 at 2014-05-11 18:00:11 +0200
+Served asset /inana-002.jpg - 200 OK (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-11 18:00:24 +0200
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.0ms)
+Warning. Error encountered while saving cache /Users/tjunghans/Projects/Private/inana/tmp/cache/sass/6d61c495cbad0aac0b305e1e81a04232729174e2/welcome.css.scssc: can't dump anonymous class #<Class:0x000001038b91c0>
+
+Compiled welcome.css  (22ms)  (pid 18135)
+Compiled application.css  (4ms)  (pid 18135)
+Completed 200 OK in 53.9ms (Views: 53.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-11 18:00:24 +0200
+Served asset /application.css - 200 OK (14ms)
+
+
+Started GET "/assets/supersized.css?body=1" for 127.0.0.1 at 2014-05-11 18:00:24 +0200
+Served asset /supersized.css - 200 OK (0ms)
+
+
+Started GET "/assets/reset.css?body=1" for 127.0.0.1 at 2014-05-11 18:00:24 +0200
+Served asset /reset.css - 200 OK (0ms)
+
+
+Started GET "/assets/trumps.css?body=1" for 127.0.0.1 at 2014-05-11 18:00:24 +0200
+Served asset /trumps.css - 200 OK (0ms)
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-05-11 18:00:24 +0200
+Served asset /welcome.css - 200 OK (1ms)
+
+
+Started GET "/assets/supersized.3.2.7.min.js?body=1" for 127.0.0.1 at 2014-05-11 18:00:24 +0200
+Served asset /supersized.3.2.7.min.js - 200 OK (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-11 18:00:24 +0200
+Served asset /application.js - 200 OK (0ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-05-11 18:00:24 +0200
+Served asset /welcome.js - 200 OK (0ms)
+
+
+Started GET "/assets/inana-001.jpg" for 127.0.0.1 at 2014-05-11 18:00:25 +0200
+Served asset /inana-001.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/inana-002.jpg" for 127.0.0.1 at 2014-05-11 18:00:25 +0200
+Served asset /inana-002.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/progress.gif" for 127.0.0.1 at 2014-05-11 18:00:25 +0200
+Served asset /progress.gif - 200 OK (0ms)
+
+
+Started GET "/assets/inana-004.jpg" for 127.0.0.1 at 2014-05-11 18:00:25 +0200
+Served asset /inana-004.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/inana-006.jpg" for 127.0.0.1 at 2014-05-11 18:00:28 +0200
+Served asset /inana-006.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/inana-005.jpg" for 127.0.0.1 at 2014-05-11 18:00:32 +0200
+Served asset /inana-005.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/inana-003.jpg" for 127.0.0.1 at 2014-05-11 18:00:36 +0200
+Served asset /inana-003.jpg - 200 OK (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-11 18:00:42 +0200
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.0ms)
+Warning. Error encountered while saving cache /Users/tjunghans/Projects/Private/inana/tmp/cache/sass/6d61c495cbad0aac0b305e1e81a04232729174e2/welcome.css.scssc: can't dump anonymous class #<Class:0x000001038b91c0>
+
+Compiled welcome.css  (19ms)  (pid 18135)
+Compiled application.css  (3ms)  (pid 18135)
+Completed 200 OK in 48.8ms (Views: 48.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-11 18:00:42 +0200
+Served asset /application.css - 200 OK (16ms)
+
+
+Started GET "/assets/supersized.css?body=1" for 127.0.0.1 at 2014-05-11 18:00:42 +0200
+Served asset /supersized.css - 200 OK (0ms)
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-05-11 18:00:42 +0200
+Served asset /welcome.css - 200 OK (2ms)
+
+
+Started GET "/assets/reset.css?body=1" for 127.0.0.1 at 2014-05-11 18:00:42 +0200
+Served asset /reset.css - 200 OK (0ms)
+
+
+Started GET "/assets/trumps.css?body=1" for 127.0.0.1 at 2014-05-11 18:00:42 +0200
+Served asset /trumps.css - 200 OK (0ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-05-11 18:00:43 +0200
+Served asset /welcome.js - 200 OK (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-11 18:00:43 +0200
+Served asset /application.js - 200 OK (0ms)
+
+
+Started GET "/assets/supersized.3.2.7.min.js?body=1" for 127.0.0.1 at 2014-05-11 18:00:43 +0200
+Served asset /supersized.3.2.7.min.js - 200 OK (0ms)
+
+
+Started GET "/assets/progress.gif" for 127.0.0.1 at 2014-05-11 18:00:43 +0200
+Served asset /progress.gif - 200 OK (0ms)
+
+
+Started GET "/assets/inana-003.jpg" for 127.0.0.1 at 2014-05-11 18:00:43 +0200
+Served asset /inana-003.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/inana-004.jpg" for 127.0.0.1 at 2014-05-11 18:00:43 +0200
+Served asset /inana-004.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/inana-005.jpg" for 127.0.0.1 at 2014-05-11 18:00:43 +0200
+Served asset /inana-005.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/inana-002.jpg" for 127.0.0.1 at 2014-05-11 18:00:46 +0200
+Served asset /inana-002.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/inana-006.jpg" for 127.0.0.1 at 2014-05-11 18:00:50 +0200
+Served asset /inana-006.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/inana-001.jpg" for 127.0.0.1 at 2014-05-11 18:00:54 +0200
+Served asset /inana-001.jpg - 200 OK (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-11 18:01:08 +0200
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 8.5ms (Views: 8.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-11 18:01:09 +0200
+Served asset /application.css - 200 OK (0ms)
+
+
+Started GET "/assets/trumps.css?body=1" for 127.0.0.1 at 2014-05-11 18:01:09 +0200
+Served asset /trumps.css - 200 OK (0ms)
+
+
+Started GET "/assets/reset.css?body=1" for 127.0.0.1 at 2014-05-11 18:01:09 +0200
+Served asset /reset.css - 200 OK (0ms)
+
+
+Started GET "/assets/supersized.css?body=1" for 127.0.0.1 at 2014-05-11 18:01:09 +0200
+Served asset /supersized.css - 200 OK (0ms)
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-05-11 18:01:09 +0200
+Served asset /welcome.css - 200 OK (0ms)
+
+
+Started GET "/assets/supersized.3.2.7.min.js?body=1" for 127.0.0.1 at 2014-05-11 18:01:09 +0200
+Served asset /supersized.3.2.7.min.js - 200 OK (0ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-05-11 18:01:09 +0200
+Served asset /welcome.js - 200 OK (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-11 18:01:09 +0200
+Served asset /application.js - 200 OK (0ms)
+
+
+Started GET "/assets/inana-006.jpg" for 127.0.0.1 at 2014-05-11 18:01:09 +0200
+Served asset /inana-006.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/inana-005.jpg" for 127.0.0.1 at 2014-05-11 18:01:09 +0200
+Served asset /inana-005.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/inana-004.jpg" for 127.0.0.1 at 2014-05-11 18:01:09 +0200
+Served asset /inana-004.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/progress.gif" for 127.0.0.1 at 2014-05-11 18:01:09 +0200
+Served asset /progress.gif - 200 OK (0ms)
+
+
+Started GET "/assets/inana-003.jpg" for 127.0.0.1 at 2014-05-11 18:01:12 +0200
+Served asset /inana-003.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/inana-002.jpg" for 127.0.0.1 at 2014-05-11 18:01:16 +0200
+Served asset /inana-002.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/inana-001.jpg" for 127.0.0.1 at 2014-05-11 18:01:20 +0200
+Served asset /inana-001.jpg - 200 OK (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-11 18:01:27 +0200
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.0ms)
+Warning. Error encountered while saving cache /Users/tjunghans/Projects/Private/inana/tmp/cache/sass/6d61c495cbad0aac0b305e1e81a04232729174e2/welcome.css.scssc: can't dump anonymous class #<Class:0x000001038b91c0>
+
+Compiled welcome.css  (20ms)  (pid 18135)
+Compiled application.css  (4ms)  (pid 18135)
+Completed 200 OK in 60.7ms (Views: 60.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-11 18:01:27 +0200
+Served asset /application.css - 200 OK (12ms)
+
+
+Started GET "/assets/reset.css?body=1" for 127.0.0.1 at 2014-05-11 18:01:27 +0200
+Served asset /reset.css - 200 OK (0ms)
+
+
+Started GET "/assets/supersized.css?body=1" for 127.0.0.1 at 2014-05-11 18:01:27 +0200
+Served asset /supersized.css - 200 OK (0ms)
+
+
+Started GET "/assets/trumps.css?body=1" for 127.0.0.1 at 2014-05-11 18:01:27 +0200
+Served asset /trumps.css - 200 OK (0ms)
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-05-11 18:01:27 +0200
+Served asset /welcome.css - 200 OK (2ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-11 18:01:28 +0200
+Served asset /application.js - 200 OK (0ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-05-11 18:01:28 +0200
+Served asset /welcome.js - 200 OK (0ms)
+
+
+Started GET "/assets/supersized.3.2.7.min.js?body=1" for 127.0.0.1 at 2014-05-11 18:01:28 +0200
+Served asset /supersized.3.2.7.min.js - 200 OK (0ms)
+
+
+Started GET "/assets/inana-001.jpg" for 127.0.0.1 at 2014-05-11 18:01:28 +0200
+Served asset /inana-001.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/inana-003.jpg" for 127.0.0.1 at 2014-05-11 18:01:28 +0200
+Served asset /inana-003.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/inana-005.jpg" for 127.0.0.1 at 2014-05-11 18:01:28 +0200
+Served asset /inana-005.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/progress.gif" for 127.0.0.1 at 2014-05-11 18:01:28 +0200
+Served asset /progress.gif - 200 OK (0ms)
+
+
+Started GET "/assets/inana-006.jpg" for 127.0.0.1 at 2014-05-11 18:01:31 +0200
+Served asset /inana-006.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/inana-002.jpg" for 127.0.0.1 at 2014-05-11 18:01:35 +0200
+Served asset /inana-002.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/inana-004.jpg" for 127.0.0.1 at 2014-05-11 18:01:39 +0200
+Served asset /inana-004.jpg - 200 OK (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-11 18:04:14 +0200
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.0ms)
+Warning. Error encountered while saving cache /Users/tjunghans/Projects/Private/inana/tmp/cache/sass/6d61c495cbad0aac0b305e1e81a04232729174e2/welcome.css.scssc: can't dump anonymous class #<Class:0x000001038b91c0>
+
+Compiled welcome.css  (19ms)  (pid 18135)
+Warning. Error encountered while saving cache /Users/tjunghans/Projects/Private/inana/tmp/cache/sass/6d61c495cbad0aac0b305e1e81a04232729174e2/base.css.scssc: can't dump anonymous class #<Class:0x000001038b91c0>
+
+Compiled base.css  (3ms)  (pid 18135)
+Compiled application.css  (12ms)  (pid 18135)
+Completed 200 OK in 59.1ms (Views: 59.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-11 18:04:14 +0200
+Served asset /application.css - 200 OK (24ms)
+
+
+Started GET "/assets/reset.css?body=1" for 127.0.0.1 at 2014-05-11 18:04:14 +0200
+Served asset /reset.css - 200 OK (0ms)
+
+
+Started GET "/assets/supersized.css?body=1" for 127.0.0.1 at 2014-05-11 18:04:14 +0200
+Served asset /supersized.css - 200 OK (0ms)
+
+
+Started GET "/assets/base.css?body=1" for 127.0.0.1 at 2014-05-11 18:04:14 +0200
+Served asset /base.css - 200 OK (1ms)
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-05-11 18:04:14 +0200
+Served asset /welcome.css - 200 OK (2ms)
+
+
+Started GET "/assets/trumps.css?body=1" for 127.0.0.1 at 2014-05-11 18:04:14 +0200
+Served asset /trumps.css - 200 OK (0ms)
+
+
+Started GET "/assets/supersized.3.2.7.min.js?body=1" for 127.0.0.1 at 2014-05-11 18:04:15 +0200
+Served asset /supersized.3.2.7.min.js - 200 OK (0ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-05-11 18:04:15 +0200
+Served asset /welcome.js - 200 OK (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-11 18:04:15 +0200
+Served asset /application.js - 200 OK (0ms)
+
+
+Started GET "/assets/inana-001.jpg" for 127.0.0.1 at 2014-05-11 18:04:15 +0200
+Served asset /inana-001.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/inana-002.jpg" for 127.0.0.1 at 2014-05-11 18:04:15 +0200
+Served asset /inana-002.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/inana-004.jpg" for 127.0.0.1 at 2014-05-11 18:04:15 +0200
+Served asset /inana-004.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/progress.gif" for 127.0.0.1 at 2014-05-11 18:04:15 +0200
+Served asset /progress.gif - 200 OK (0ms)
+
+
+Started GET "/assets/inana-005.jpg" for 127.0.0.1 at 2014-05-11 18:04:18 +0200
+Served asset /inana-005.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/inana-006.jpg" for 127.0.0.1 at 2014-05-11 18:04:22 +0200
+Served asset /inana-006.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/inana-003.jpg" for 127.0.0.1 at 2014-05-11 18:04:26 +0200
+Served asset /inana-003.jpg - 200 OK (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-11 18:25:10 +0200
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.0ms)
+Completed 500 Internal Server Error in 15.7ms
+
+ActionView::Template::Error (Invalid CSS after "...regular-webfont": expected ")", was ".eot') %>');"
+  (in /Users/tjunghans/Projects/Private/inana/app/assets/stylesheets/base.css.scss)):
+    4:   <meta charset="utf-8">
+    5:   <title>Inana :: Inana Music</title>
+    6:   <meta name="viewport" content="initial-scale=1">
+    7:   <%= stylesheet_link_tag    "application", :media => "all" %>
+    8: 
+    9:   <%= csrf_meta_tags %>
+    10:   <!--[if IE]>
+  app/assets/stylesheets/base.css.scss:3
+  app/views/layouts/application.html.erb:7:in `_app_views_layouts_application_html_erb___2539644802139045886_2180241360'
+
+
+  Rendered /Users/tjunghans/.rvm/gems/ruby-2.1.0/gems/actionpack-3.2.17/lib/action_dispatch/middleware/templates/rescues/_trace.erb (2.6ms)
+  Rendered /Users/tjunghans/.rvm/gems/ruby-2.1.0/gems/actionpack-3.2.17/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.1ms)
+  Rendered /Users/tjunghans/.rvm/gems/ruby-2.1.0/gems/actionpack-3.2.17/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (15.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-11 18:25:12 +0200
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.0ms)
+Completed 500 Internal Server Error in 8.3ms
+
+ActionView::Template::Error (Invalid CSS after "...regular-webfont": expected ")", was ".eot') %>');"
+  (in /Users/tjunghans/Projects/Private/inana/app/assets/stylesheets/base.css.scss)):
+    4:   <meta charset="utf-8">
+    5:   <title>Inana :: Inana Music</title>
+    6:   <meta name="viewport" content="initial-scale=1">
+    7:   <%= stylesheet_link_tag    "application", :media => "all" %>
+    8: 
+    9:   <%= csrf_meta_tags %>
+    10:   <!--[if IE]>
+  app/assets/stylesheets/base.css.scss:3
+  app/views/layouts/application.html.erb:7:in `_app_views_layouts_application_html_erb___2539644802139045886_2180241360'
+
+
+  Rendered /Users/tjunghans/.rvm/gems/ruby-2.1.0/gems/actionpack-3.2.17/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.3ms)
+  Rendered /Users/tjunghans/.rvm/gems/ruby-2.1.0/gems/actionpack-3.2.17/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.8ms)
+  Rendered /Users/tjunghans/.rvm/gems/ruby-2.1.0/gems/actionpack-3.2.17/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (8.3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-11 18:25:49 +0200
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.0ms)
+Completed 500 Internal Server Error in 6.7ms
+
+ActionView::Template::Error (Invalid CSS after "  src": expected ";", was ": url('<%= asse..."
+  (in /Users/tjunghans/Projects/Private/inana/app/assets/stylesheets/base.css.scss)):
+    4:   <meta charset="utf-8">
+    5:   <title>Inana :: Inana Music</title>
+    6:   <meta name="viewport" content="initial-scale=1">
+    7:   <%= stylesheet_link_tag    "application", :media => "all" %>
+    8: 
+    9:   <%= csrf_meta_tags %>
+    10:   <!--[if IE]>
+  app/assets/stylesheets/base.css.scss:3
+  app/views/layouts/application.html.erb:7:in `_app_views_layouts_application_html_erb___2539644802139045886_2180241360'
+
+
+  Rendered /Users/tjunghans/.rvm/gems/ruby-2.1.0/gems/actionpack-3.2.17/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.2ms)
+  Rendered /Users/tjunghans/.rvm/gems/ruby-2.1.0/gems/actionpack-3.2.17/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (0.8ms)
+  Rendered /Users/tjunghans/.rvm/gems/ruby-2.1.0/gems/actionpack-3.2.17/lib/action_dispatch/middleware/templates/rescues/template_error.erb within rescues/layout (6.9ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-11 18:27:23 +0200
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.0ms)
+Warning. Error encountered while saving cache /Users/tjunghans/Projects/Private/inana/tmp/cache/sass/6d61c495cbad0aac0b305e1e81a04232729174e2/base.css.scssc: can't dump anonymous class #<Class:0x000001038b91c0>
+
+Compiled base.css  (1ms)  (pid 18135)
+Warning. Error encountered while saving cache /Users/tjunghans/Projects/Private/inana/tmp/cache/sass/6d61c495cbad0aac0b305e1e81a04232729174e2/welcome.css.scssc: can't dump anonymous class #<Class:0x000001038b91c0>
+
+Compiled welcome.css  (29ms)  (pid 18135)
+Compiled fonts.css  (0ms)  (pid 18135)
+Compiled application.css  (10ms)  (pid 18135)
+Completed 200 OK in 67.3ms (Views: 67.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-11 18:27:24 +0200
+Served asset /application.css - 200 OK (19ms)
+
+
+Started GET "/assets/reset.css?body=1" for 127.0.0.1 at 2014-05-11 18:27:24 +0200
+Served asset /reset.css - 200 OK (0ms)
+
+
+Started GET "/assets/supersized.css?body=1" for 127.0.0.1 at 2014-05-11 18:27:24 +0200
+Served asset /supersized.css - 200 OK (0ms)
+
+
+Started GET "/assets/fonts.css?body=1" for 127.0.0.1 at 2014-05-11 18:27:24 +0200
+Served asset /fonts.css - 200 OK (1ms)
+
+
+Started GET "/assets/trumps.css?body=1" for 127.0.0.1 at 2014-05-11 18:27:24 +0200
+Served asset /trumps.css - 200 OK (0ms)
+
+
+Started GET "/assets/base.css?body=1" for 127.0.0.1 at 2014-05-11 18:27:24 +0200
+Served asset /base.css - 200 OK (2ms)
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-05-11 18:27:24 +0200
+Served asset /welcome.css - 200 OK (2ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-05-11 18:27:24 +0200
+Served asset /welcome.js - 200 OK (0ms)
+
+
+Started GET "/assets/supersized.3.2.7.min.js?body=1" for 127.0.0.1 at 2014-05-11 18:27:24 +0200
+Served asset /supersized.3.2.7.min.js - 200 OK (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-11 18:27:24 +0200
+Served asset /application.js - 200 OK (0ms)
+
+
+Started GET "/assets/opensans-regular-webfont.woff" for 127.0.0.1 at 2014-05-11 18:27:24 +0200
+Served asset /opensans-regular-webfont.woff - 404 Not Found (2ms)
+
+ActionController::RoutingError (No route matches [GET] "/assets/opensans-regular-webfont.woff"):
+  actionpack (3.2.17) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.17) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.17) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.17) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.17) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.17) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.17) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.17) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  actionpack (3.2.17) lib/action_dispatch/middleware/static.rb:63:in `call'
+  railties (3.2.17) lib/rails/engine.rb:484:in `call'
+  railties (3.2.17) lib/rails/application.rb:231:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.17) lib/rails/rack/log_tailer.rb:17:in `call'
+  rack (1.4.5) lib/rack/handler/webrick.rb:59:in `service'
+  /Users/tjunghans/.rvm/rubies/ruby-2.1.0/lib/ruby/2.1.0/webrick/httpserver.rb:138:in `service'
+  /Users/tjunghans/.rvm/rubies/ruby-2.1.0/lib/ruby/2.1.0/webrick/httpserver.rb:94:in `run'
+  /Users/tjunghans/.rvm/rubies/ruby-2.1.0/lib/ruby/2.1.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /Users/tjunghans/.rvm/gems/ruby-2.1.0/gems/actionpack-3.2.17/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.8ms)
+
+
+Started GET "/assets/opensans-regular-webfont.ttf" for 127.0.0.1 at 2014-05-11 18:27:24 +0200
+Served asset /opensans-regular-webfont.ttf - 404 Not Found (2ms)
+
+ActionController::RoutingError (No route matches [GET] "/assets/opensans-regular-webfont.ttf"):
+  actionpack (3.2.17) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  actionpack (3.2.17) lib/action_dispatch/middleware/show_exceptions.rb:56:in `call'
+  railties (3.2.17) lib/rails/rack/logger.rb:32:in `call_app'
+  railties (3.2.17) lib/rails/rack/logger.rb:16:in `block in call'
+  activesupport (3.2.17) lib/active_support/tagged_logging.rb:22:in `tagged'
+  railties (3.2.17) lib/rails/rack/logger.rb:16:in `call'
+  actionpack (3.2.17) lib/action_dispatch/middleware/request_id.rb:22:in `call'
+  rack (1.4.5) lib/rack/methodoverride.rb:21:in `call'
+  rack (1.4.5) lib/rack/runtime.rb:17:in `call'
+  activesupport (3.2.17) lib/active_support/cache/strategy/local_cache.rb:72:in `call'
+  rack (1.4.5) lib/rack/lock.rb:15:in `call'
+  actionpack (3.2.17) lib/action_dispatch/middleware/static.rb:63:in `call'
+  railties (3.2.17) lib/rails/engine.rb:484:in `call'
+  railties (3.2.17) lib/rails/application.rb:231:in `call'
+  rack (1.4.5) lib/rack/content_length.rb:14:in `call'
+  railties (3.2.17) lib/rails/rack/log_tailer.rb:17:in `call'
+  rack (1.4.5) lib/rack/handler/webrick.rb:59:in `service'
+  /Users/tjunghans/.rvm/rubies/ruby-2.1.0/lib/ruby/2.1.0/webrick/httpserver.rb:138:in `service'
+  /Users/tjunghans/.rvm/rubies/ruby-2.1.0/lib/ruby/2.1.0/webrick/httpserver.rb:94:in `run'
+  /Users/tjunghans/.rvm/rubies/ruby-2.1.0/lib/ruby/2.1.0/webrick/server.rb:295:in `block in start_thread'
+
+
+  Rendered /Users/tjunghans/.rvm/gems/ruby-2.1.0/gems/actionpack-3.2.17/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.9ms)
+
+
+Started GET "/assets/inana-006.jpg" for 127.0.0.1 at 2014-05-11 18:27:24 +0200
+Served asset /inana-006.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/inana-005.jpg" for 127.0.0.1 at 2014-05-11 18:27:24 +0200
+Served asset /inana-005.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/inana-001.jpg" for 127.0.0.1 at 2014-05-11 18:27:25 +0200
+Served asset /inana-001.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/progress.gif" for 127.0.0.1 at 2014-05-11 18:27:25 +0200
+Served asset /progress.gif - 200 OK (0ms)
+
+
+Started GET "/assets/inana-002.jpg" for 127.0.0.1 at 2014-05-11 18:27:28 +0200
+Served asset /inana-002.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/inana-003.jpg" for 127.0.0.1 at 2014-05-11 18:27:32 +0200
+Served asset /inana-003.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/inana-004.jpg" for 127.0.0.1 at 2014-05-11 18:27:36 +0200
+Served asset /inana-004.jpg - 200 OK (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-11 18:30:03 +0200
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.0ms)
+Compiled fonts.css  (0ms)  (pid 18135)
+Compiled application.css  (5ms)  (pid 18135)
+Completed 200 OK in 26.3ms (Views: 26.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-11 18:30:03 +0200
+Served asset /application.css - 200 OK (18ms)
+
+
+Started GET "/assets/reset.css?body=1" for 127.0.0.1 at 2014-05-11 18:30:03 +0200
+Served asset /reset.css - 200 OK (0ms)
+
+
+Started GET "/assets/fonts.css?body=1" for 127.0.0.1 at 2014-05-11 18:30:03 +0200
+Served asset /fonts.css - 200 OK (2ms)
+
+
+Started GET "/assets/supersized.css?body=1" for 127.0.0.1 at 2014-05-11 18:30:03 +0200
+Served asset /supersized.css - 200 OK (0ms)
+
+
+Started GET "/assets/base.css?body=1" for 127.0.0.1 at 2014-05-11 18:30:03 +0200
+Served asset /base.css - 200 OK (0ms)
+
+
+Started GET "/assets/trumps.css?body=1" for 127.0.0.1 at 2014-05-11 18:30:03 +0200
+Served asset /trumps.css - 200 OK (0ms)
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-05-11 18:30:03 +0200
+Served asset /welcome.css - 200 OK (0ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-05-11 18:30:03 +0200
+Served asset /welcome.js - 200 OK (0ms)
+
+
+Started GET "/assets/supersized.3.2.7.min.js?body=1" for 127.0.0.1 at 2014-05-11 18:30:03 +0200
+Served asset /supersized.3.2.7.min.js - 200 OK (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-11 18:30:03 +0200
+Served asset /application.js - 200 OK (0ms)
+
+
+Started GET "/assets/inana-006.jpg" for 127.0.0.1 at 2014-05-11 18:30:04 +0200
+Served asset /inana-006.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/inana-002.jpg" for 127.0.0.1 at 2014-05-11 18:30:04 +0200
+Served asset /inana-002.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/inana-005.jpg" for 127.0.0.1 at 2014-05-11 18:30:04 +0200
+Served asset /inana-005.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/progress.gif" for 127.0.0.1 at 2014-05-11 18:30:04 +0200
+Served asset /progress.gif - 200 OK (0ms)
+
+
+Started GET "/assets/inana-003.jpg" for 127.0.0.1 at 2014-05-11 18:30:07 +0200
+Served asset /inana-003.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/inana-001.jpg" for 127.0.0.1 at 2014-05-11 18:30:11 +0200
+Served asset /inana-001.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/inana-004.jpg" for 127.0.0.1 at 2014-05-11 18:30:15 +0200
+Served asset /inana-004.jpg - 200 OK (0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-11 18:31:10 +0200
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 5.5ms (Views: 5.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-05-11 18:31:10 +0200
+Served asset /application.css - 200 OK (0ms)
+
+
+Started GET "/assets/reset.css?body=1" for 127.0.0.1 at 2014-05-11 18:31:10 +0200
+Served asset /reset.css - 200 OK (0ms)
+
+
+Started GET "/assets/fonts.css?body=1" for 127.0.0.1 at 2014-05-11 18:31:10 +0200
+Served asset /fonts.css - 200 OK (0ms)
+
+
+Started GET "/assets/trumps.css?body=1" for 127.0.0.1 at 2014-05-11 18:31:10 +0200
+Served asset /trumps.css - 200 OK (0ms)
+
+
+Started GET "/assets/base.css?body=1" for 127.0.0.1 at 2014-05-11 18:31:10 +0200
+Served asset /base.css - 200 OK (0ms)
+
+
+Started GET "/assets/supersized.css?body=1" for 127.0.0.1 at 2014-05-11 18:31:10 +0200
+Served asset /supersized.css - 200 OK (0ms)
+
+
+Started GET "/assets/welcome.css?body=1" for 127.0.0.1 at 2014-05-11 18:31:10 +0200
+Served asset /welcome.css - 200 OK (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-05-11 18:31:10 +0200
+Served asset /application.js - 200 OK (0ms)
+
+
+Started GET "/assets/welcome.js?body=1" for 127.0.0.1 at 2014-05-11 18:31:10 +0200
+Served asset /welcome.js - 200 OK (0ms)
+
+
+Started GET "/assets/supersized.3.2.7.min.js?body=1" for 127.0.0.1 at 2014-05-11 18:31:10 +0200
+Served asset /supersized.3.2.7.min.js - 200 OK (0ms)
+
+
+Started GET "/assets/inana-006.jpg" for 127.0.0.1 at 2014-05-11 18:31:11 +0200
+Served asset /inana-006.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/inana-005.jpg" for 127.0.0.1 at 2014-05-11 18:31:11 +0200
+Served asset /inana-005.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/inana-001.jpg" for 127.0.0.1 at 2014-05-11 18:31:11 +0200
+Served asset /inana-001.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/progress.gif" for 127.0.0.1 at 2014-05-11 18:31:11 +0200
+Served asset /progress.gif - 200 OK (0ms)
+
+
+Started GET "/assets/inana-003.jpg" for 127.0.0.1 at 2014-05-11 18:31:14 +0200
+Served asset /inana-003.jpg - 200 OK (0ms)
+
+
+Started GET "/assets/inana-002.jpg" for 127.0.0.1 at 2014-05-11 18:31:18 +0200
+Served asset /inana-002.jpg - 200 OK (0ms)

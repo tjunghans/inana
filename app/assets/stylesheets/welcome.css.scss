@@ -3,6 +3,7 @@
 // You can use Sass (SCSS) here: http://sass-lang.com/
 
 $grey: #3A2F0B;
+$welcomeTextColor: #ffffff;
 
 @mixin bga($r: 0, $g: 0, $b: 0, $a: 0.5) {
   background: rgb($r, $g, $b);
@@ -10,16 +11,15 @@ $grey: #3A2F0B;
 }
 
 @mixin greyBga() {
-  @include bga(58, 47, 11, 0.2);
+  @include bga(58, 47, 11, 0.3);
 }
 
 @mixin welcometext($fontSize: 2em) {
   @include greyBga();
-  color: #fff;
+  color: $welcomeTextColor;
   display: inline-block;
-  font-family: 'Open Sans', 'Helvetica', 'Arial', sans-serif;
+  font-family: 'open_sanslight';
   font-size: $fontSize;
-  font-weight: 400;
   margin: 0.25em 0;
   padding: 0.25em;
   position: relative;
@@ -59,8 +59,26 @@ body {
   @include welcometext();
 }
 
-#supersized a {
-  @include greyBga();
+#supersized {
+
+  a {
+    @include greyBga();
+  }
+}
+
+/* Small Devices, Tablets */
+@media only screen and (max-width : 768px) {
+  .title {
+    @include welcometext(3em);
+  }
+
+  .subtitle {
+    @include welcometext(2em);
+  }
+
+  .contact--link {
+    @include welcometext(2em);
+  }
 }
 
 
