@@ -4,15 +4,22 @@
   <meta charset="utf-8">
   <title>Inana :: Inana Music</title>
   <meta name="viewport" content="initial-scale=1">
-  <meta name="description" content="Online profile of Inana, south african singer, song-writer, actress, voice over artist and public speaker">
+  <meta name="description" content="<%= @siteDescription %>">
   <meta name="keywords" content="music, south africa, facebook, instagram, youtube, twitter, veronnica wolpendz">
 
   <meta name="twitter:card" content="summary">
   <meta name="twitter:site" content="@InanaMUSIC">
-  <meta name="twitter:url" content="http://www.inana.co.za">
-  <meta name="twitter:title" content="Inana Music">
-  <meta name="twitter:description" content="Online profile of Inana, south african singer, song-writer, actress, voice over artist and public speaker">
-  <meta name="twitter:image:src" content="http://www.inana.co.za/assets/inana-twitter.png">
+  <meta name="twitter:url" content="<%= @siteUrl %>">
+  <meta name="twitter:title" content="<%= @siteTitle %>">
+  <meta name="twitter:description" content="<%= @siteDescription %>">
+  <meta name="twitter:image:src" content="<%= @thumbUrl %>">
+
+  <meta property="og:title" content="<%= @siteTitle %>"/>
+  <meta property="og:type" content="website"/>
+  <meta property="og:image" content="<%= @thumbUrl %>"/>
+  <meta property="og:url" content="<%= @siteUrl %>"/>
+  <meta property="og:description" content="<%= @siteDescription %>"/>
+  <meta property="fb:admins" content="717452193"/>
 
   <%= stylesheet_link_tag    "application", :media => "all" %>
 
